@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/swoosh_badminton.ogg-3e4140797d6879a1095ededb6ba7f38e.oggstr"
+
+[deps]
+
+source_file="res://Assets/Sounds/swoosh_badminton.ogg"
+dest_files=[ "res://.import/swoosh_badminton.ogg-3e4140797d6879a1095ededb6ba7f38e.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

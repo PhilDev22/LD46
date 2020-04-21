@@ -1,0 +1,146 @@
+[gd_scene load_steps=22 format=2]
+
+[ext_resource path="res://Assets/dog_sitting_1.png" type="Texture" id=1]
+[ext_resource path="res://Assets/dog_running_1.png" type="Texture" id=2]
+[ext_resource path="res://Assets/dog_running_2.png" type="Texture" id=3]
+[ext_resource path="res://Scripts/Doggo.gd" type="Script" id=4]
+[ext_resource path="res://Assets/dog_sitting_2.png" type="Texture" id=5]
+[ext_resource path="res://Assets/dog_dead.png" type="Texture" id=6]
+[ext_resource path="res://Assets/speechbubble_dog.png" type="Texture" id=7]
+[ext_resource path="res://Assets/Fonts/Cartoons 123.ttf" type="DynamicFontData" id=8]
+[ext_resource path="res://Assets/speechbubble_dog_2.png" type="Texture" id=9]
+[ext_resource path="res://Assets/heart_anim/hearts_1.png" type="Texture" id=10]
+[ext_resource path="res://Assets/heart_anim/hearts_3.png" type="Texture" id=11]
+[ext_resource path="res://Assets/heart_anim/hearts_2.png" type="Texture" id=12]
+[ext_resource path="res://Assets/Sounds/dog_bark1.ogg" type="AudioStream" id=13]
+[ext_resource path="res://Assets/Sounds/dog_whine.ogg" type="AudioStream" id=14]
+[ext_resource path="res://Assets/Sounds/bite.ogg" type="AudioStream" id=15]
+
+[sub_resource type="SpriteFrames" id=1]
+animations = [ {
+"frames": [ ExtResource( 1 ), ExtResource( 5 ) ],
+"loop": true,
+"name": "default",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 6 ) ],
+"loop": false,
+"name": "dead",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 2 ), ExtResource( 3 ) ],
+"loop": true,
+"name": "running",
+"speed": 5.0
+} ]
+
+[sub_resource type="RectangleShape2D" id=2]
+extents = Vector2( 64.2058, 64.3179 )
+
+[sub_resource type="Animation" id=3]
+resource_name = "show_and_hide"
+length = 7.0
+tracks/0/type = "value"
+tracks/0/path = NodePath(".:visible")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 7 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 1,
+"values": [ true, false ]
+}
+
+[sub_resource type="DynamicFont" id=4]
+size = 23
+outline_size = 5
+outline_color = Color( 0, 0, 0, 1 )
+font_data = ExtResource( 8 )
+
+[sub_resource type="Animation" id=5]
+resource_name = "show_and_hide"
+length = 5.0
+tracks/0/type = "value"
+tracks/0/path = NodePath(".:visible")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 5 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 1,
+"values": [ true, false ]
+}
+
+[sub_resource type="SpriteFrames" id=6]
+animations = [ {
+"frames": [ ExtResource( 10 ), ExtResource( 12 ), ExtResource( 11 ) ],
+"loop": false,
+"name": "default",
+"speed": 3.0
+} ]
+
+[node name="Doggo" type="AnimatedSprite"]
+position = Vector2( 0.832611, -43.3251 )
+scale = Vector2( 0.649361, 0.649361 )
+frames = SubResource( 1 )
+playing = true
+script = ExtResource( 4 )
+
+[node name="Area2D" type="Area2D" parent="."]
+collision_layer = 16
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Area2D"]
+shape = SubResource( 2 )
+
+[node name="SpeechBubble" type="Sprite" parent="."]
+visible = false
+position = Vector2( -6.73372, -140.286 )
+texture = ExtResource( 7 )
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="SpeechBubble"]
+anims/show_and_hide = SubResource( 3 )
+
+[node name="SpeechBubbleAmount" type="Sprite" parent="."]
+visible = false
+position = Vector2( -5.14934, -136.589 )
+texture = ExtResource( 9 )
+
+[node name="Label" type="Label" parent="SpeechBubbleAmount"]
+margin_left = -44.1653
+margin_top = -29.0474
+margin_right = -4.16534
+margin_bottom = -0.0474091
+custom_fonts/font = SubResource( 4 )
+text = "5"
+align = 1
+valign = 1
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="SpeechBubbleAmount"]
+anims/show_and_hide = SubResource( 5 )
+
+[node name="HeartsAnim" type="AnimatedSprite" parent="."]
+visible = false
+position = Vector2( -3.96102, -122.791 )
+frames = SubResource( 6 )
+frame = 2
+playing = true
+
+[node name="AudioBark" type="AudioStreamPlayer2D" parent="."]
+stream = ExtResource( 13 )
+
+[node name="AudioWhine" type="AudioStreamPlayer2D" parent="."]
+stream = ExtResource( 14 )
+volume_db = 1.507
+
+[node name="AudioEat" type="AudioStreamPlayer2D" parent="."]
+stream = ExtResource( 15 )
+volume_db = -9.043
+[connection signal="body_entered" from="Area2D" to="." method="_on_Area2D_body_entered"]
+[connection signal="animation_finished" from="HeartsAnim" to="." method="_on_HeartsAnim_animation_finished"]

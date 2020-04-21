@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/dog_bark1.ogg-683896b57f38c7d0e4607ba5ed5a86ba.oggstr"
+
+[deps]
+
+source_file="res://Assets/Sounds/dog_bark1.ogg"
+dest_files=[ "res://.import/dog_bark1.ogg-683896b57f38c7d0e4607ba5ed5a86ba.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

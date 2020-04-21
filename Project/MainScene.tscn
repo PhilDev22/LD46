@@ -1,0 +1,317 @@
+[gd_scene load_steps=23 format=2]
+
+[ext_resource path="res://Assets/background.png" type="Texture" id=1]
+[ext_resource path="res://Scenes/Doggo.tscn" type="PackedScene" id=2]
+[ext_resource path="res://Scenes/Player.tscn" type="PackedScene" id=3]
+[ext_resource path="res://Scenes/Bone.tscn" type="PackedScene" id=4]
+[ext_resource path="res://Assets/bone_item.png" type="Texture" id=5]
+[ext_resource path="res://Assets/food.png" type="Texture" id=6]
+[ext_resource path="res://Scripts/MainScene.gd" type="Script" id=7]
+[ext_resource path="res://Assets/Fonts/Cartoons 123.ttf" type="DynamicFontData" id=8]
+[ext_resource path="res://Scripts/GUI.gd" type="Script" id=9]
+[ext_resource path="res://Scripts/LabelInfo.gd" type="Script" id=10]
+[ext_resource path="res://Assets/ui_clock.png" type="Texture" id=11]
+[ext_resource path="res://IntroScene.tscn" type="PackedScene" id=12]
+[ext_resource path="res://Assets/Sounds/music.ogg" type="AudioStream" id=13]
+
+[sub_resource type="RectangleShape2D" id=1]
+extents = Vector2( 723.106, 26.9484 )
+
+[sub_resource type="DynamicFont" id=2]
+size = 29
+outline_size = 3
+outline_color = Color( 0, 0, 0, 1 )
+font_data = ExtResource( 8 )
+
+[sub_resource type="DynamicFont" id=3]
+size = 40
+outline_size = 6
+outline_color = Color( 0, 0, 0, 1 )
+font_data = ExtResource( 8 )
+
+[sub_resource type="Animation" id=4]
+resource_name = "none"
+tracks/0/type = "value"
+tracks/0/path = NodePath(".:rect_scale")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0 ),
+"transitions": PoolRealArray( 1 ),
+"update": 0,
+"values": [ Vector2( 1, 1 ) ]
+}
+
+[sub_resource type="Animation" id=5]
+resource_name = "pulsate"
+loop = true
+tracks/0/type = "value"
+tracks/0/path = NodePath(".:rect_scale")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 0.2, 0.4 ),
+"transitions": PoolRealArray( 1, 0.420449, 1 ),
+"update": 0,
+"values": [ Vector2( 1, 1 ), Vector2( 1.7, 1.7 ), Vector2( 1, 1 ) ]
+}
+
+[sub_resource type="DynamicFont" id=6]
+size = 60
+outline_size = 8
+outline_color = Color( 0, 0, 0, 1 )
+font_data = ExtResource( 8 )
+
+[sub_resource type="Animation" id=7]
+length = 2.0
+tracks/0/type = "value"
+tracks/0/path = NodePath(".:rect_position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 0.8, 1 ),
+"transitions": PoolRealArray( 1, 1, 1 ),
+"update": 0,
+"values": [ Vector2( 246.36, -60 ), Vector2( 246.36, -60 ), Vector2( 246.36, 230 ) ]
+}
+tracks/1/type = "value"
+tracks/1/path = NodePath("AnimationPlayer:current_animation")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/keys = {
+"times": PoolRealArray( 1 ),
+"transitions": PoolRealArray( 1 ),
+"update": 2,
+"values": [ "idle" ]
+}
+
+[sub_resource type="Animation" id=8]
+length = 0.2
+tracks/0/type = "value"
+tracks/0/path = NodePath(".:rect_position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 0.2 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 0,
+"values": [ Vector2( 246.36, 230 ), Vector2( 246.36, 700 ) ]
+}
+tracks/1/type = "method"
+tracks/1/path = NodePath(".")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/keys = {
+"times": PoolRealArray( 0.2 ),
+"transitions": PoolRealArray( 1 ),
+"values": [ {
+"args": [  ],
+"method": "hide"
+} ]
+}
+
+[sub_resource type="Animation" id=9]
+resource_name = "idle"
+loop = true
+tracks/0/type = "value"
+tracks/0/path = NodePath(".:rect_position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 0.5, 1 ),
+"transitions": PoolRealArray( 1, 1, 1 ),
+"update": 0,
+"values": [ Vector2( 246.36, 230 ), Vector2( 246.36, 250 ), Vector2( 246.36, 230 ) ]
+}
+
+[node name="MainScene" type="Node2D"]
+script = ExtResource( 7 )
+
+[node name="Background" type="Sprite" parent="."]
+scale = Vector2( 0.800781, 0.833333 )
+texture = ExtResource( 1 )
+centered = false
+
+[node name="StaticBodyGround" type="StaticBody2D" parent="Background"]
+position = Vector2( 639.334, 691.09 )
+collision_layer = 2
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Background/StaticBodyGround"]
+shape = SubResource( 1 )
+
+[node name="Area2D" type="Area2D" parent="Background"]
+position = Vector2( 3.39756, 19.5895 )
+collision_layer = 2
+
+[node name="CollisionShape2D2" type="CollisionShape2D" parent="Background/Area2D"]
+position = Vector2( 639.334, 674.765 )
+shape = SubResource( 1 )
+one_way_collision = true
+
+[node name="Player" parent="." instance=ExtResource( 3 )]
+position = Vector2( 433.917, 460.987 )
+
+[node name="Doggo" parent="." instance=ExtResource( 2 )]
+position = Vector2( 556.336, 518.462 )
+frame = 1
+
+[node name="Birds" type="Node2D" parent="."]
+
+[node name="DropsFood" type="Node2D" parent="."]
+
+[node name="DropsBones" type="Node2D" parent="."]
+
+[node name="Node" parent="DropsBones" instance=ExtResource( 4 )]
+position = Vector2( 698.435, 480.464 )
+
+[node name="Bullets" type="Node" parent="."]
+
+[node name="GUI" type="Node2D" parent="."]
+script = ExtResource( 9 )
+
+[node name="GUI_Bones" type="Node2D" parent="GUI"]
+position = Vector2( 53.7141, -1.36035 )
+scale = Vector2( 0.922601, 0.890949 )
+
+[node name="GUI_Bone" type="Sprite" parent="GUI/GUI_Bones"]
+position = Vector2( 33.4729, 37.5222 )
+scale = Vector2( 0.778394, 0.778394 )
+texture = ExtResource( 5 )
+
+[node name="GUI_Bone2" type="Sprite" parent="GUI/GUI_Bones"]
+position = Vector2( 57.4729, 37.5222 )
+scale = Vector2( 0.778394, 0.778394 )
+texture = ExtResource( 5 )
+
+[node name="GUI_Bone3" type="Sprite" parent="GUI/GUI_Bones"]
+position = Vector2( 81.4729, 37.5222 )
+scale = Vector2( 0.778394, 0.778394 )
+texture = ExtResource( 5 )
+
+[node name="GUI_Bone4" type="Sprite" parent="GUI/GUI_Bones"]
+position = Vector2( 105.473, 37.5222 )
+scale = Vector2( 0.778394, 0.778394 )
+texture = ExtResource( 5 )
+
+[node name="GUI_Bone5" type="Sprite" parent="GUI/GUI_Bones"]
+position = Vector2( 129.473, 37.5222 )
+scale = Vector2( 0.778394, 0.778394 )
+texture = ExtResource( 5 )
+
+[node name="GUI_Bone6" type="Sprite" parent="GUI/GUI_Bones"]
+position = Vector2( 153.473, 37.5222 )
+scale = Vector2( 0.778394, 0.778394 )
+texture = ExtResource( 5 )
+
+[node name="GUI_Bone7" type="Sprite" parent="GUI/GUI_Bones"]
+position = Vector2( 177.473, 37.5222 )
+scale = Vector2( 0.778394, 0.778394 )
+texture = ExtResource( 5 )
+
+[node name="GUI_Bone8" type="Sprite" parent="GUI/GUI_Bones"]
+position = Vector2( 201.473, 37.5222 )
+scale = Vector2( 0.778394, 0.778394 )
+texture = ExtResource( 5 )
+
+[node name="GUI_Bone9" type="Sprite" parent="GUI/GUI_Bones"]
+position = Vector2( 225.473, 37.5222 )
+scale = Vector2( 0.778394, 0.778394 )
+texture = ExtResource( 5 )
+
+[node name="GUI_Bone10" type="Sprite" parent="GUI/GUI_Bones"]
+position = Vector2( 249.473, 37.5222 )
+scale = Vector2( 0.778394, 0.778394 )
+texture = ExtResource( 5 )
+
+[node name="GUI_Food" type="Node2D" parent="GUI"]
+position = Vector2( 391.909, 1.50732 )
+
+[node name="GUI_Food_Image" type="Sprite" parent="GUI/GUI_Food"]
+position = Vector2( 437.673, 32.6782 )
+scale = Vector2( 0.718595, 0.718595 )
+texture = ExtResource( 6 )
+flip_h = true
+
+[node name="LabelFood" type="Label" parent="GUI/GUI_Food"]
+margin_left = 476.0
+margin_top = 18.5263
+margin_right = 550.0
+margin_bottom = 79.5263
+custom_fonts/font = SubResource( 2 )
+text = "0/10
+"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="LabelTime" type="Label" parent="GUI"]
+anchor_left = 20.0
+anchor_top = 20.0
+anchor_right = 20.0
+anchor_bottom = 20.0
+margin_left = 471.835
+margin_top = -13.6911
+margin_right = 571.835
+margin_bottom = 86.3089
+rect_pivot_offset = Vector2( 50, 50 )
+custom_fonts/font = SubResource( 3 )
+text = "30"
+align = 1
+valign = 1
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="GUI/LabelTime"]
+anims/none = SubResource( 4 )
+anims/pulsate = SubResource( 5 )
+
+[node name="LabelInfo" type="Label" parent="GUI"]
+margin_left = 246.36
+margin_top = 230.0
+margin_right = 741.36
+margin_bottom = 289.0
+rect_rotation = -11.3568
+custom_fonts/font = SubResource( 6 )
+text = "Game Over!"
+align = 1
+script = ExtResource( 10 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="GUI/LabelInfo"]
+autoplay = "fade_in"
+anims/fade_in = SubResource( 7 )
+anims/fade_out = SubResource( 8 )
+anims/idle = SubResource( 9 )
+
+[node name="Clock" type="Sprite" parent="GUI"]
+position = Vector2( 463.088, 32.6855 )
+texture = ExtResource( 11 )
+
+[node name="IntroScene" parent="." instance=ExtResource( 12 )]
+visible = false
+position = Vector2( -0.302429, 1.00165 )
+
+[node name="AudioMusic" type="AudioStreamPlayer2D" parent="."]
+position = Vector2( 518.303, 321.049 )
+stream = ExtResource( 13 )
+volume_db = -13.564
+[connection signal="body_entered" from="Background/Area2D" to="." method="_on_Area2D_body_entered"]
+[connection signal="hide" from="GUI/LabelInfo" to="." method="_on_LabelLevelComplete_hide"]
+[connection signal="tree_exiting" from="IntroScene" to="." method="_on_IntroScene_tree_exiting"]

@@ -1,0 +1,958 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="bird.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="-752.54384"
+     inkscape:cy="105.34863"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     showborder="false"
+     inkscape:snap-bbox="false"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-global="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-nodes="true"
+     inkscape:snap-others="true"
+     inkscape:snap-to-guides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4522"
+       spacingx="52.916667"
+       spacingy="47.625" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g929"
+       inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\bird1_anim\frame_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="matrix(0.49149836,0,0,0.49149836,-140.2978,104.27031)"
+       style="stroke-width:3.20931506;stroke-miterlimit:4;stroke-dasharray:none">
+      <g
+         id="g906"
+         style="stroke-width:1.83389425;stroke-miterlimit:4;stroke-dasharray:none">
+        <path
+           sodipodi:nodetypes="ssscscscs"
+           inkscape:connector-curvature="0"
+           id="path902"
+           d="m -206.07561,168.46291 c -1.5548,1.93284 9.17046,6.21242 12.03045,7.93711 2.25037,1.35706 7.1038,10.13077 8.85239,8.92334 2.12327,-1.46609 -5.77807,-8.83986 -5.77807,-8.83986 0,0 11.19869,3.14759 11.49388,1.01575 0.32885,-2.37476 -10.99122,-3.88259 -10.99122,-3.88259 0,0 10.68195,-3.50887 8.55928,-5.72153 -1.82142,-1.89862 -8.01544,4.22767 -12.40153,4.57887 -3.22964,0.39594 -9.92984,-6.29264 -11.76517,-4.01107 z"
+           style="fill:#fce006;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.83389425;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           style="fill:#fce006;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.83389425;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -207.74718,167.44615 c -2.37042,0.73101 4.12025,10.28178 5.52436,13.31205 1.10482,2.38436 0.21407,12.37137 2.33893,12.34991 2.58012,-0.026 0.16164,-10.5595 0.16164,-10.5595 0,0 7.51672,8.87789 8.95488,7.27677 1.60204,-1.78356 -6.93331,-9.37074 -6.93331,-9.37074 0,0 10.81534,3.07319 10.29536,0.0514 -0.44619,-2.59292 -9.00838,-0.98469 -12.83922,-3.14936 -2.89768,-1.48013 -4.70454,-10.77341 -7.50264,-9.91051 z"
+           id="path900"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ssscscscs" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path892"
+         d="m -150.28338,123.89737 a 1.8898809,19.465773 64.969484 0 0 -18.04469,6.69473 1.8898809,19.465773 64.969484 0 0 -16.83778,9.94852 1.8898809,19.465773 64.969484 0 0 4.48433,-0.77593 1.8898809,19.465773 72.261984 0 0 -3.21729,2.19412 1.8898809,19.465773 72.261984 0 0 1.01144,0.26083 1.8898809,19.465773 81.017063 0 0 -5.07437,2.11548 1.8898809,19.465773 81.017063 0 0 19.52247,-1.17305 1.8898809,19.465773 81.017063 0 0 18.93193,-4.90568 1.8898809,19.465773 81.017063 0 0 -19.52239,1.17254 1.8898809,19.465773 81.017063 0 0 -2.43626,0.40259 1.8898809,19.465773 72.261984 0 0 6.68347,-2.00337 1.8898809,19.465773 72.261984 0 0 17.96467,-7.73053 1.8898809,19.465773 72.261984 0 0 -19.11623,4.13015 1.8898809,19.465773 72.261984 0 0 -4.81084,1.60859 1.8898809,19.465773 64.969484 0 0 4.01637,-1.81945 1.8898809,19.465773 64.969484 0 0 16.83771,-9.948 1.8898809,19.465773 64.969484 0 0 -0.39254,-0.17154 z"
+         style="opacity:1;fill:#037014;fill-opacity:1;stroke:#000000;stroke-width:3.20931506;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+      <g
+         id="g910"
+         style="stroke-width:3.20931506;stroke-miterlimit:4;stroke-dasharray:none">
+        <path
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:#fceba7;fill-opacity:1;stroke:#000000;stroke-width:3.20931506;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           d="m -182.40702,161.06509 a 67.657738,67.657738 0 0 0 -4.31376,-3.56645 67.657738,67.657738 0 0 0 -5.61628,-3.76766 67.657738,67.657738 0 0 0 -5.96466,-3.18849 67.657738,67.657738 0 0 0 -6.25263,-2.57689 67.657738,67.657738 0 0 0 -6.47832,-1.93962 67.657738,67.657738 0 0 0 -6.64054,-1.28354 67.657738,67.657738 0 0 0 -6.73488,-0.61377 67.657738,67.657738 0 0 0 -6.76246,0.0616 67.657738,67.657738 0 0 0 -5.18584,0.56778 30.805059,30.805059 0 0 0 2.93281,9.97728 30.805059,30.805059 0 0 0 41.26652,13.96474 30.805059,30.805059 0 0 0 9.75004,-7.63501 z"
+           id="path826" />
+        <path
+           style="opacity:1;fill:#037014;fill-opacity:1;stroke:#000000;stroke-width:12.12969494;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           d="m -831.88086,389.86523 c -12.85639,-0.039 -30.17781,6.61277 -31.79883,20.24415 -1.21603,11.22605 3.44269,26.19307 9.35157,35.5664 a 116.42857,116.42857 0 0 0 -38.98829,101.44141 255.71429,255.71429 0 0 1 19.60157,-2.14649 255.71429,255.71429 0 0 1 25.55859,-0.23242 255.71429,255.71429 0 0 1 25.45508,2.32031 255.71429,255.71429 0 0 1 25.09765,4.85157 255.71429,255.71429 0 0 1 24.48438,7.33007 255.71429,255.71429 0 0 1 23.63281,9.74024 255.71429,255.71429 0 0 1 22.54297,12.05078 255.71429,255.71429 0 0 1 21.22656,14.24023 255.71429,255.71429 0 0 1 16.30469,13.47852 116.42857,116.42857 0 0 0 15.92773,-127.10938 116.42857,116.42857 0 0 0 -155.96484,-52.77929 v -0.002 a 116.42857,116.42857 0 0 0 -16.85351,10.36914 c -4.04527,-7.86367 -8.29568,-17.39573 -5.35157,-25.07227 8.58815,-19.44159 29.56742,-4.38737 33.43164,-14.90625 1.84539,-6.19989 -4.86172,-9.35809 -13.6582,-9.38477 z"
+           transform="scale(0.26458333)"
+           id="path815"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g914"
+         style="stroke-width:3.20931506;stroke-miterlimit:4;stroke-dasharray:none">
+        <circle
+           style="opacity:1;fill:#fffffc;fill-opacity:1;stroke:#000000;stroke-width:3.20931506;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           id="path817"
+           cx="-223.57291"
+           cy="132.76935"
+           r="7.3705359" />
+        <circle
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.20931506;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           id="path819"
+           cx="-224.37471"
+           cy="133.44136"
+           r="4.1577382" />
+      </g>
+      <g
+         style="stroke-width:3.86956239;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="matrix(0.82209115,-0.10967045,0.10967045,0.82209115,-138.05109,-24.738093)"
+         id="g844">
+        <path
+           style="opacity:1;fill:#fce006;fill-opacity:1;stroke:#000000;stroke-width:3.86956239;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           d="m -136.82196,188.51095 c -0.72075,0.38331 -1.42255,0.71398 -2.10658,0.9982 -0.68403,0.28422 -1.35023,0.52216 -2.0008,0.72016 -0.65057,0.19799 -1.28521,0.35608 -1.90557,0.48072 -0.62037,0.12464 -1.2265,0.21559 -1.81992,0.27974 -0.59343,0.0641 -1.17451,0.1013 -1.74424,0.11783 -0.56974,0.0165 -1.1283,0.0125 -1.67761,-0.006 -1.09861,-0.0364 -2.15962,-0.12953 -3.19606,-0.22774 -1.03645,-0.0982 -2.04826,-0.20153 -3.0486,-0.25858 -1.00033,-0.0571 -1.98921,-0.068 -2.97949,0.0191 -0.49514,0.0435 -0.99042,0.11173 -1.48793,0.21059 -0.49752,0.0989 -0.99704,0.2286 -1.50019,0.39567 -0.50315,0.16706 -1.00989,0.37158 -1.52192,0.61972 -0.2189,0.10608 -0.4433,0.25442 -0.66425,0.377 0.83518,5.34822 9.00936,10.42391 15.09761,7.73864 6.85107,-3.02172 10.90728,-9.31245 10.55555,-11.46538 z"
+           id="path840"
+           inkscape:connector-curvature="0"
+           inkscape:transform-center-x="12.745299"
+           inkscape:transform-center-y="6.1351404" />
+        <path
+           style="opacity:1;fill:#fce006;fill-opacity:1;stroke:#000000;stroke-width:3.86956239;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           d="m -151.19302,178.16977 c -5.75356,0.0362 -11.47008,5.06305 -11.55694,9.81133 -3.9e-4,0.021 0.004,0.0426 0.004,0.0636 0.23789,-0.0852 0.48335,-0.19521 0.71654,-0.26444 0.54547,-0.16193 1.07864,-0.28167 1.6022,-0.36504 0.52356,-0.0834 1.0375,-0.13049 1.54446,-0.14747 0.50696,-0.017 1.00675,-0.004 1.5024,0.0332 0.99131,0.0745 1.96537,0.24541 2.94325,0.46372 0.97789,0.2183 1.95961,0.48413 2.96646,0.74892 1.00685,0.26478 2.03877,0.52849 3.11698,0.74237 0.53911,0.10694 1.08965,0.20136 1.65454,0.27732 0.56489,0.076 1.14432,0.13342 1.74029,0.16622 0.59598,0.0328 1.20884,0.0412 1.8412,0.0187 0.63237,-0.0225 1.28423,-0.0757 1.95828,-0.16574 0.67405,-0.09 1.36999,-0.21692 2.09102,-0.3866 0.72103,-0.16968 1.46712,-0.38232 2.24044,-0.64383 0.002,-2.65565 -4.59964,-8.10874 -11.9136,-10.04692 -0.80714,-0.21389 -1.62958,-0.31052 -2.45152,-0.30535 z"
+           id="path832"
+           inkscape:connector-curvature="0"
+           inkscape:transform-center-x="12.893579"
+           inkscape:transform-center-y="-4.5383923" />
+      </g>
+    </g>
+    <path
+       style="fill:#037014;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.57737303;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -241.03027,174.26249 c 0,0 0.23927,5.71491 5.04727,9.10507 4.19385,2.56339 7.97468,1.8804 9.89265,-0.39586 1.70161,-2.56145 1.00946,-6.92778 -2.32174,-9.6989 -3.70455,-2.62445 -9.69077,-1.97936 -9.69077,-1.97936"
+       id="path860"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\bird1_anim\frame_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       style="stroke:#000000;stroke-width:1.85208333;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="rotate(-26.304,-425.43263,1343.2226)"
+       id="g873">
+      <path
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#fceba7;fill-opacity:1;stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         d="m -60.605469,785.83789 a 255.71429,255.71429 0 0 0 -8.642578,-19.30859 255.71429,255.71429 0 0 0 -12.71875,-22.17188 255.71429,255.71429 0 0 0 -14.869141,-20.79297 255.71429,255.71429 0 0 0 -16.869142,-19.20312 255.71429,255.71429 0 0 0 -18.70117,-17.42188 255.71429,255.71429 0 0 0 -20.34961,-15.4707 255.71429,255.71429 0 0 0 -21.79102,-13.35937 255.71429,255.71429 0 0 0 -23.01562,-11.11719 255.71429,255.71429 0 0 0 -18.52148,-6.76172 116.42857,116.42857 0 0 0 -6.77344,38.7168 116.42857,116.42857 0 0 0 116.42969,116.42968 116.42857,116.42857 0 0 0 45.822261,-9.53906 z"
+         id="path869"
+         transform="scale(0.26458333)" />
+      <path
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#037014;fill-opacity:1;stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         d="m -106.42773,562.51953 a 116.42857,116.42857 0 0 0 -109.65625,77.71094 255.71429,255.71429 0 0 1 18.52148,6.76172 255.71429,255.71429 0 0 1 23.01562,11.11719 255.71429,255.71429 0 0 1 21.79102,13.35937 255.71429,255.71429 0 0 1 20.34961,15.4707 255.71429,255.71429 0 0 1 18.70117,17.42188 255.71429,255.71429 0 0 1 16.869142,19.20312 255.71429,255.71429 0 0 1 14.869141,20.79297 255.71429,255.71429 0 0 1 12.71875,22.17188 255.71429,255.71429 0 0 1 8.642578,19.30859 A 116.42857,116.42857 0 0 0 10,678.94727 116.42857,116.42857 0 0 0 -106.42773,562.51953 Z"
+         id="path871"
+         transform="scale(0.26458333)" />
+    </g>
+    <circle
+       r="7.3705359"
+       cy="115.76042"
+       cx="-602.68304"
+       id="circle875"
+       style="opacity:1;fill:#fffffc;fill-opacity:1;stroke:#000000;stroke-width:1.85208333;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+    <circle
+       r="4.1577382"
+       cy="116.43243"
+       cx="-603.48486"
+       id="circle877"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+    <g
+       transform="rotate(-7.5986353,-813.85684,3701.1324)"
+       id="g883">
+      <path
+         style="opacity:1;fill:#fce006;fill-opacity:1;stroke:#000000;stroke-width:1.85208333;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         d="m -136.82196,188.51095 c -0.72075,0.38331 -1.42255,0.71398 -2.10658,0.9982 -0.68403,0.28422 -1.35023,0.52216 -2.0008,0.72016 -0.65057,0.19799 -1.28521,0.35608 -1.90557,0.48072 -0.62037,0.12464 -1.2265,0.21559 -1.81992,0.27974 -0.59343,0.0641 -1.17451,0.1013 -1.74424,0.11783 -0.56974,0.0165 -1.1283,0.0125 -1.67761,-0.006 -1.09861,-0.0364 -2.15962,-0.12953 -3.19606,-0.22774 -1.03645,-0.0982 -2.04826,-0.20153 -3.0486,-0.25858 -1.00033,-0.0571 -1.98921,-0.068 -2.97949,0.0191 -0.49514,0.0435 -0.99042,0.11173 -1.48793,0.21059 -0.49752,0.0989 -0.99704,0.2286 -1.50019,0.39567 -0.50315,0.16706 -1.00989,0.37158 -1.52192,0.61972 -0.2189,0.10608 -0.4433,0.25442 -0.66425,0.377 0.83518,5.34822 9.00936,10.42391 15.09761,7.73864 6.85107,-3.02172 10.90728,-9.31245 10.55555,-11.46538 z"
+         id="path879"
+         inkscape:connector-curvature="0"
+         inkscape:transform-center-x="12.745299"
+         inkscape:transform-center-y="6.1351404" />
+      <path
+         style="opacity:1;fill:#fce006;fill-opacity:1;stroke:#000000;stroke-width:1.85208333;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         d="m -151.19302,178.16977 c -5.75356,0.0362 -11.47008,5.06305 -11.55694,9.81133 -3.9e-4,0.021 0.004,0.0426 0.004,0.0636 0.23789,-0.0852 0.48335,-0.19521 0.71654,-0.26444 0.54547,-0.16193 1.07864,-0.28167 1.6022,-0.36504 0.52356,-0.0834 1.0375,-0.13049 1.54446,-0.14747 0.50696,-0.017 1.00675,-0.004 1.5024,0.0332 0.99131,0.0745 1.96537,0.24541 2.94325,0.46372 0.97789,0.2183 1.95961,0.48413 2.96646,0.74892 1.00685,0.26478 2.03877,0.52849 3.11698,0.74237 0.53911,0.10694 1.08965,0.20136 1.65454,0.27732 0.56489,0.076 1.14432,0.13342 1.74029,0.16622 0.59598,0.0328 1.20884,0.0412 1.8412,0.0187 0.63237,-0.0225 1.28423,-0.0757 1.95828,-0.16574 0.67405,-0.09 1.36999,-0.21692 2.09102,-0.3866 0.72103,-0.16968 1.46712,-0.38232 2.24044,-0.64383 0.002,-2.65565 -4.59964,-8.10874 -11.9136,-10.04692 -0.80714,-0.21389 -1.62958,-0.31052 -2.45152,-0.30535 z"
+         id="path881"
+         inkscape:connector-curvature="0"
+         inkscape:transform-center-x="12.893579"
+         inkscape:transform-center-y="-4.5383923" />
+    </g>
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path885"
+       d="m -584.05986,125.3968 c 0,0 0.48682,11.62752 10.26915,18.52513 8.53279,5.21546 16.22526,3.82584 20.12754,-0.80544 3.4621,-5.21148 2.05384,-14.09521 -4.7238,-19.7333 -7.53726,-5.33971 -19.71678,-4.0272 -19.71678,-4.0272"
+       style="fill:#037014;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.40922427;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cccsc"
+       inkscape:connector-curvature="0"
+       d="m -604.44391,92.569902 c 2.27228,-5.14392 7.82306,-1.16069 8.84547,-3.94381 1.20187,-4.03788 -11.30477,-3.20119 -12.02712,2.87314 -0.55115,5.08805 3.45757,13.088158 5.87993,11.559408 1.33425,-0.84204 -4.19279,-6.591928 -2.69828,-10.488738 z"
+       style="fill:#037014;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.85208333;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path887" />
+    <g
+       id="g957"
+       transform="matrix(0.49149836,0,0,0.49149836,-87.381136,106.38699)"
+       style="opacity:1;stroke-width:3.20931506;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\bird1_anim\frame_2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g935"
+         style="stroke-width:1.83389425;stroke-miterlimit:4;stroke-dasharray:none"
+         inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\bird1_anim\frame_2.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96">
+        <path
+           style="fill:#fce006;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.83389425;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -206.07561,168.46291 c -1.5548,1.93284 9.17046,6.21242 12.03045,7.93711 2.25037,1.35706 7.1038,10.13077 8.85239,8.92334 2.12327,-1.46609 -5.77807,-8.83986 -5.77807,-8.83986 0,0 11.19869,3.14759 11.49388,1.01575 0.32885,-2.37476 -10.99122,-3.88259 -10.99122,-3.88259 0,0 10.68195,-3.50887 8.55928,-5.72153 -1.82142,-1.89862 -8.01544,4.22767 -12.40153,4.57887 -3.22964,0.39594 -9.92984,-6.29264 -11.76517,-4.01107 z"
+           id="path931"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ssscscscs" />
+        <path
+           sodipodi:nodetypes="ssscscscs"
+           inkscape:connector-curvature="0"
+           id="path933"
+           d="m -207.74718,167.44615 c -2.37042,0.73101 4.12025,10.28178 5.52436,13.31205 1.10482,2.38436 0.21407,12.37137 2.33893,12.34991 2.58012,-0.026 0.16164,-10.5595 0.16164,-10.5595 0,0 7.51672,8.87789 8.95488,7.27677 1.60204,-1.78356 -6.93331,-9.37074 -6.93331,-9.37074 0,0 10.81534,3.07319 10.29536,0.0514 -0.44619,-2.59292 -9.00838,-0.98469 -12.83922,-3.14936 -2.89768,-1.48013 -4.70454,-10.77341 -7.50264,-9.91051 z"
+           style="fill:#fce006;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.83389425;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <path
+         style="opacity:1;fill:#037014;fill-opacity:1;stroke:#000000;stroke-width:3.20931506;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         d="m -150.28338,123.89737 a 1.8898809,19.465773 64.969484 0 0 -18.04469,6.69473 1.8898809,19.465773 64.969484 0 0 -16.83778,9.94852 1.8898809,19.465773 64.969484 0 0 4.48433,-0.77593 1.8898809,19.465773 72.261984 0 0 -3.21729,2.19412 1.8898809,19.465773 72.261984 0 0 1.01144,0.26083 1.8898809,19.465773 81.017063 0 0 -5.07437,2.11548 1.8898809,19.465773 81.017063 0 0 19.52247,-1.17305 1.8898809,19.465773 81.017063 0 0 18.93193,-4.90568 1.8898809,19.465773 81.017063 0 0 -19.52239,1.17254 1.8898809,19.465773 81.017063 0 0 -2.43626,0.40259 1.8898809,19.465773 72.261984 0 0 6.68347,-2.00337 1.8898809,19.465773 72.261984 0 0 17.96467,-7.73053 1.8898809,19.465773 72.261984 0 0 -19.11623,4.13015 1.8898809,19.465773 72.261984 0 0 -4.81084,1.60859 1.8898809,19.465773 64.969484 0 0 4.01637,-1.81945 1.8898809,19.465773 64.969484 0 0 16.83771,-9.948 1.8898809,19.465773 64.969484 0 0 -0.39254,-0.17154 z"
+         id="path937"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\bird1_anim\frame_2.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <g
+         id="g943"
+         style="stroke-width:3.20931506;stroke-miterlimit:4;stroke-dasharray:none"
+         inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\bird1_anim\frame_2.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96">
+        <path
+           id="path939"
+           d="m -182.40702,161.06509 a 67.657738,67.657738 0 0 0 -4.31376,-3.56645 67.657738,67.657738 0 0 0 -5.61628,-3.76766 67.657738,67.657738 0 0 0 -5.96466,-3.18849 67.657738,67.657738 0 0 0 -6.25263,-2.57689 67.657738,67.657738 0 0 0 -6.47832,-1.93962 67.657738,67.657738 0 0 0 -6.64054,-1.28354 67.657738,67.657738 0 0 0 -6.73488,-0.61377 67.657738,67.657738 0 0 0 -6.76246,0.0616 67.657738,67.657738 0 0 0 -5.18584,0.56778 30.805059,30.805059 0 0 0 2.93281,9.97728 30.805059,30.805059 0 0 0 41.26652,13.96474 30.805059,30.805059 0 0 0 9.75004,-7.63501 z"
+           style="opacity:1;fill:#fceba7;fill-opacity:1;stroke:#000000;stroke-width:3.20931506;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path941"
+           transform="scale(0.26458333)"
+           d="m -831.88086,389.86523 c -12.85639,-0.039 -30.17781,6.61277 -31.79883,20.24415 -1.21603,11.22605 3.44269,26.19307 9.35157,35.5664 a 116.42857,116.42857 0 0 0 -38.98829,101.44141 255.71429,255.71429 0 0 1 19.60157,-2.14649 255.71429,255.71429 0 0 1 25.55859,-0.23242 255.71429,255.71429 0 0 1 25.45508,2.32031 255.71429,255.71429 0 0 1 25.09765,4.85157 255.71429,255.71429 0 0 1 24.48438,7.33007 255.71429,255.71429 0 0 1 23.63281,9.74024 255.71429,255.71429 0 0 1 22.54297,12.05078 255.71429,255.71429 0 0 1 21.22656,14.24023 255.71429,255.71429 0 0 1 16.30469,13.47852 116.42857,116.42857 0 0 0 15.92773,-127.10938 116.42857,116.42857 0 0 0 -155.96484,-52.77929 v -0.002 a 116.42857,116.42857 0 0 0 -16.85351,10.36914 c -4.04527,-7.86367 -8.29568,-17.39573 -5.35157,-25.07227 8.58815,-19.44159 29.56742,-4.38737 33.43164,-14.90625 1.84539,-6.19989 -4.86172,-9.35809 -13.6582,-9.38477 z"
+           style="opacity:1;fill:#037014;fill-opacity:1;stroke:#000000;stroke-width:12.12969494;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g949"
+         style="stroke-width:3.20931506;stroke-miterlimit:4;stroke-dasharray:none"
+         inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\bird1_anim\frame_2.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96">
+        <circle
+           r="7.3705359"
+           cy="132.76935"
+           cx="-223.57291"
+           id="circle945"
+           style="opacity:1;fill:#fffffc;fill-opacity:1;stroke:#000000;stroke-width:3.20931506;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+        <circle
+           r="4.1577382"
+           cy="133.44136"
+           cx="-224.37471"
+           id="circle947"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.20931506;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+      </g>
+      <g
+         id="g955"
+         transform="matrix(0.82209115,-0.10967045,0.10967045,0.82209115,-138.05109,-24.738093)"
+         style="stroke-width:3.86956239;stroke-miterlimit:4;stroke-dasharray:none"
+         inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\bird1_anim\frame_2.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96">
+        <path
+           inkscape:transform-center-y="6.1351404"
+           inkscape:transform-center-x="12.745299"
+           inkscape:connector-curvature="0"
+           id="path951"
+           d="m -136.82196,188.51095 c -0.72075,0.38331 -1.42255,0.71398 -2.10658,0.9982 -0.68403,0.28422 -1.35023,0.52216 -2.0008,0.72016 -0.65057,0.19799 -1.28521,0.35608 -1.90557,0.48072 -0.62037,0.12464 -1.2265,0.21559 -1.81992,0.27974 -0.59343,0.0641 -1.17451,0.1013 -1.74424,0.11783 -0.56974,0.0165 -1.1283,0.0125 -1.67761,-0.006 -1.09861,-0.0364 -2.15962,-0.12953 -3.19606,-0.22774 -1.03645,-0.0982 -2.04826,-0.20153 -3.0486,-0.25858 -1.00033,-0.0571 -1.98921,-0.068 -2.97949,0.0191 -0.49514,0.0435 -0.99042,0.11173 -1.48793,0.21059 -0.49752,0.0989 -0.99704,0.2286 -1.50019,0.39567 -0.50315,0.16706 -1.00989,0.37158 -1.52192,0.61972 -0.2189,0.10608 -0.4433,0.25442 -0.66425,0.377 0.83518,5.34822 9.00936,10.42391 15.09761,7.73864 6.85107,-3.02172 10.90728,-9.31245 10.55555,-11.46538 z"
+           style="opacity:1;fill:#fce006;fill-opacity:1;stroke:#000000;stroke-width:3.86956239;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+        <path
+           inkscape:transform-center-y="-4.5383923"
+           inkscape:transform-center-x="12.893579"
+           inkscape:connector-curvature="0"
+           id="path953"
+           d="m -151.19302,178.16977 c -5.75356,0.0362 -11.47008,5.06305 -11.55694,9.81133 -3.9e-4,0.021 0.004,0.0426 0.004,0.0636 0.23789,-0.0852 0.48335,-0.19521 0.71654,-0.26444 0.54547,-0.16193 1.07864,-0.28167 1.6022,-0.36504 0.52356,-0.0834 1.0375,-0.13049 1.54446,-0.14747 0.50696,-0.017 1.00675,-0.004 1.5024,0.0332 0.99131,0.0745 1.96537,0.24541 2.94325,0.46372 0.97789,0.2183 1.95961,0.48413 2.96646,0.74892 1.00685,0.26478 2.03877,0.52849 3.11698,0.74237 0.53911,0.10694 1.08965,0.20136 1.65454,0.27732 0.56489,0.076 1.14432,0.13342 1.74029,0.16622 0.59598,0.0328 1.20884,0.0412 1.8412,0.0187 0.63237,-0.0225 1.28423,-0.0757 1.95828,-0.16574 0.67405,-0.09 1.36999,-0.21692 2.09102,-0.3866 0.72103,-0.16968 1.46712,-0.38232 2.24044,-0.64383 0.002,-2.65565 -4.59964,-8.10874 -11.9136,-10.04692 -0.80714,-0.21389 -1.62958,-0.31052 -2.45152,-0.30535 z"
+           style="opacity:1;fill:#fce006;fill-opacity:1;stroke:#000000;stroke-width:3.86956239;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+      </g>
+    </g>
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path959"
+       d="m -185.10588,176.61262 c 0,0 5.48069,1.63691 10.25307,-1.80319 3.79059,-3.12905 4.37749,-6.92599 2.85086,-9.48125 -1.86676,-2.4437 -6.22021,-3.21282 -9.92592,-0.96702 -3.68879,2.64656 -5.03049,8.51604 -5.03049,8.51604"
+       style="opacity:1;fill:#037014;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.57737303;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\bird1_anim\frame_2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#7a5c00;fill-opacity:0;stroke:none;stroke-width:1.05833328;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect4524"
+       width="52.916664"
+       height="47.625"
+       x="-264.58334"
+       y="154.125"
+       inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\bird1_anim\frame_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#7a5c00;fill-opacity:0;stroke:none;stroke-width:1.05833328;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect4526"
+       width="52.916664"
+       height="47.625"
+       x="-211.66666"
+       y="154.125"
+       inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\bird1_anim\frame_2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:1;fill:#037014;fill-opacity:1;stroke:#000000;stroke-width:0.4822042;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m -230.77628,94.042325 c 0,0 2.40307,0.03914 5.60529,-0.857746 0.23075,-0.06511 1.17118,-0.469404 1.34702,-0.590763 0.20049,-0.13838 2.0443,0.53324 2.10255,0.488428 0.19666,-0.124777 -0.85079,-0.965405 -0.85079,-0.965405 0,0 2.07135,-0.244244 2.23709,-0.344804 0.17153,-0.104064 -1.09306,-0.589126 -1.09306,-0.589126 -0.92383,-0.07167 2.3401,-0.200726 2.51029,-0.30955 0.2251,-0.132992 -1.34678,-0.441488 -0.84113,-0.738853 1.09092,-0.641512 3.18952,-1.762272 3.88887,-1.744321 1.35659,0.03478 -3.34665,5.859465 -6.67782,6.809464 -3.52259,1.004591 -8.22831,-1.157324 -8.22831,-1.157324 z"
+       id="rect4528-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccccsccssc"
+       inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\feather_anim\frame_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:1;fill:#037014;fill-opacity:1;stroke:#000000;stroke-width:0.4822042;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m -241.58452,78.684996 c 0,0 -1.31518,2.011608 -3.85347,4.16002 -0.18331,0.15455 -1.04543,0.706476 -1.24452,0.784005 -0.22701,0.08839 -0.70488,1.991647 -0.77464,2.01474 -0.21359,0.09291 -0.32223,-1.245793 -0.32223,-1.245793 0,0 -1.36377,1.57805 -1.53998,1.65889 -0.18236,0.08367 0.12518,-1.235392 0.12518,-1.235392 0.45869,-0.805113 -1.47845,1.824977 -1.664,1.904868 -0.23636,0.111764 0.3897,-1.362674 -0.14005,-1.110764 -1.1429,0.543507 -3.2477,1.6526 -3.62501,2.241701 -0.73193,1.142722 6.72817,0.5149 9.38277,-1.710482 2.80714,-2.353256 3.65597,-7.461796 3.65597,-7.461796 z"
+       id="rect4528-6-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccccsccssc"
+       inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\feather_anim\frame_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:1;fill:#037014;fill-opacity:1;stroke:#000000;stroke-width:0.42142269;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m -231.56757,75.492327 c 0,0 2.09244,-0.183161 4.79497,-1.25216 0.19472,-0.07743 0.97566,-0.51385 1.11753,-0.63527 0.16191,-0.138226 1.82523,0.278782 1.87182,0.234563 0.15969,-0.126204 -0.82681,-0.762297 -0.82681,-0.762297 0,0 1.77849,-0.399508 1.91347,-0.501891 0.13989,-0.105752 -1.0034,-0.413332 -1.0034,-0.413332 -0.80954,0.02115 2.01602,-0.385956 2.15413,-0.49594 0.18352,-0.136108 -1.21061,-0.262063 -0.79793,-0.566246 0.89032,-0.656222 2.61328,-1.820122 3.22282,-1.867723 1.18239,-0.09235 -2.37961,5.395876 -5.18942,6.522709 -2.97128,1.191621 -7.25718,-0.262413 -7.25718,-0.262413 z"
+       id="rect4528-0-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccccsccssc"
+       inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\feather_anim\frame_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:1;fill:#037014;fill-opacity:1;stroke:#000000;stroke-width:0.30036438;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m -246.63675,73.269171 c 0,0 -1.49623,-0.0501 -3.46066,-0.70716 -0.14155,-0.0476 -0.71408,-0.3283 -0.81972,-0.40926 -0.12046,-0.0923 -1.28832,0.26844 -1.32317,0.23877 -0.11849,-0.0837 0.55919,-0.57427 0.55919,-0.57427 0,0 -1.28108,-0.21608 -1.38109,-0.28378 -0.1035,-0.07 0.69827,-0.33266 0.69827,-0.33266 0.57696,-0.016 -1.44963,-0.19733 -1.55214,-0.2703 -0.13593,-0.0897 0.85154,-0.23297 0.54615,-0.43362 -0.65882,-0.43288 -1.92973,-1.19511 -2.36536,-1.2056 -0.84505,-0.0204 1.90063,3.74896 3.94365,4.44311 2.16039,0.73406 5.15489,-0.46526 5.15489,-0.46526 z"
+       id="rect4528-8-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccccsccssc"
+       inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\feather_anim\frame_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:1;fill:#fceba7;fill-opacity:1;stroke:#000000;stroke-width:0.4822042;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m -238.26211,97.174338 c 0,0 -2.39153,0.238539 -5.65716,-0.389313 -0.23537,-0.04572 -1.20612,-0.370524 -1.39143,-0.476865 -0.2113,-0.121252 -1.99296,0.701157 -2.05472,0.661335 -0.20636,-0.108014 0.76767,-1.032715 0.76767,-1.032715 0,0 -2.08447,-0.07139 -2.258,-0.157842 -0.17958,-0.08947 1.04037,-0.677864 1.04037,-0.677864 0.91468,-0.148174 -2.34869,-0.0057 -2.52733,-0.100022 -0.23537,-0.113841 1.30547,-0.551803 0.77687,-0.806152 -1.14042,-0.548701 -3.32484,-1.491323 -4.02028,-1.415359 -1.34902,0.147322 3.82166,5.561321 7.22022,6.231413 3.59384,0.708603 8.10379,-1.836616 8.10379,-1.836616 z"
+       id="rect4528-6-1-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccccsccssc"
+       inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\feather_anim\frame_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:1;fill:#fceba7;fill-opacity:1;stroke:#000000;stroke-width:0.28218037;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m -236.28927,80.906362 c 0,0 1.03482,0.952486 2.78316,1.807037 0.12604,0.06166 0.69447,0.250789 0.81857,0.266148 0.14149,0.01753 0.68571,1.028737 0.7286,1.031831 0.13449,0.02207 0.004,-0.75301 0.004,-0.75301 0,0 1.00017,0.699541 1.11174,0.72012 0.11547,0.02126 -0.24832,-0.682903 -0.24832,-0.682903 -0.37576,-0.390928 1.10067,0.823168 1.21739,0.841862 0.15014,0.02949 -0.41664,-0.717143 -0.0799,-0.650258 0.72639,0.144319 2.07965,0.471466 2.37825,0.75153 0.57923,0.543247 -3.74312,1.257682 -5.56849,0.376146 -1.93027,-0.932192 -3.14497,-3.708539 -3.14497,-3.708539 z"
+       id="rect4528-2-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccccsccssc"
+       inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\feather_anim\frame_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:1;fill:#037014;fill-opacity:1;stroke:#000000;stroke-width:0.4822042;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m -182.07336,93.193855 c 0,0 2.22394,0.911255 5.53294,1.241627 0.23862,0.02336 1.2617,-0.01085 1.46965,-0.05987 0.23711,-0.0559 1.70991,1.240847 1.78048,1.220315 0.22859,-0.04462 -0.44097,-1.208881 -0.44097,-1.208881 0,0 2.01814,0.526558 2.20911,0.493233 0.19764,-0.03448 -0.8036,-0.946615 -0.8036,-0.946615 -0.83435,-0.403059 2.25261,0.664924 2.45074,0.625522 0.25807,-0.04192 -1.09366,-0.90147 -0.51445,-0.994358 1.2496,-0.200362 3.6122,-0.480259 4.25703,-0.208952 1.25085,0.526239 -5.25007,4.239124 -8.69851,3.911279 -3.64659,-0.346684 -7.24242,-4.073304 -7.24242,-4.073304 z"
+       id="rect4528-1-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccccsccssc"
+       inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\feather_anim\frame_2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:1;fill:#037014;fill-opacity:1;stroke:#000000;stroke-width:0.4822042;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m -192.18474,86.228389 c 0,0 -2.19849,0.971034 -5.49733,1.390776 -0.23791,0.02981 -1.26155,0.02326 -1.47075,-0.02012 -0.23853,-0.04948 -1.67574,1.286626 -1.74683,1.268008 -0.22973,-0.03838 0.40813,-1.220357 0.40813,-1.220357 0,0 -2.00316,0.580935 -2.19497,0.552785 -0.19852,-0.02913 0.77771,-0.968 0.77771,-0.968 0.82314,-0.4255 -2.2338,0.725593 -2.43293,0.69156 -0.2591,-0.03497 1.06889,-0.930713 0.48739,-1.007898 -1.25455,-0.166499 -3.62386,-0.382416 -4.26112,-0.09378 -1.23615,0.559874 5.36276,4.095632 8.80108,3.674668 3.63589,-0.445151 7.12964,-4.267634 7.12964,-4.267634 z"
+       id="rect4528-6-7-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccccsccssc"
+       inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\feather_anim\frame_2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:1;fill:#037014;fill-opacity:1;stroke:#000000;stroke-width:0.42142269;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m -183.36177,73.937554 c 0,0 1.94256,0.798941 4.83408,1.091506 0.20852,0.02072 1.10267,-0.008 1.28447,-0.05063 0.20732,-0.04836 1.49295,1.086412 1.55465,1.06855 0.19983,-0.0387 -0.384,-1.057003 -0.384,-1.057003 0,0 1.76315,0.462513 1.93009,0.433614 0.17284,-0.02963 -0.70121,-0.828226 -0.70121,-0.828226 -0.72871,-0.353253 1.96788,0.583709 2.14109,0.549498 0.22554,-0.03654 -0.95476,-0.789105 -0.44845,-0.869609 1.09231,-0.173659 3.15744,-0.415556 3.72067,-0.177709 1.09257,0.461366 -4.5932,3.698726 -7.60656,3.408223 -3.18656,-0.307168 -6.32483,-3.568212 -6.32483,-3.568212 z"
+       id="rect4528-0-8-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccccsccssc"
+       inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\feather_anim\frame_2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:1;fill:#037014;fill-opacity:1;stroke:#000000;stroke-width:0.30036438;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m -193.45663,71.18898 c 0,0 -1.3783,0.584388 -3.43679,0.815298 -0.14844,0.01641 -0.78593,0.0028 -0.91583,-0.02618 -0.14812,-0.03302 -1.05562,0.785812 -1.09972,0.773568 -0.14272,-0.02605 0.26549,-0.756301 0.26549,-0.756301 0,0 -1.253,0.343263 -1.37222,0.323952 -0.12335,-0.01993 0.49336,-0.595685 0.49336,-0.595685 0.51662,-0.257382 -1.398,0.431221 -1.52171,0.408183 -0.16105,-0.02415 0.67436,-0.569777 0.31288,-0.623231 -0.77983,-0.115331 -2.25351,-0.271754 -2.65308,-0.09789 -0.77512,0.337216 3.30215,2.600564 5.44754,2.370215 2.26866,-0.243553 4.48008,-2.591962 4.48008,-2.591962 z"
+       id="rect4528-8-4-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccccsccssc"
+       inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\feather_anim\frame_2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:1;fill:#fceba7;fill-opacity:1;stroke:#000000;stroke-width:0.4822042;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m -179.75536,96.383477 c 0,0 -2.14975,1.07466 -5.42485,1.651064 -0.23622,0.04111 -1.25899,0.08334 -1.47003,0.04997 -0.24063,-0.03804 -1.61255,1.364992 -1.68444,1.349778 -0.2313,-0.02743 0.34952,-1.23841 0.34952,-1.23841 0,0 -1.97321,0.675694 -2.16615,0.656715 -0.19967,-0.01964 0.73072,-1.003949 0.73072,-1.003949 0.80193,-0.464229 -2.1967,0.831181 -2.39722,0.806668 -0.26048,-0.02255 1.02333,-0.980573 0.43881,-1.029978 -1.26107,-0.106549 -3.63797,-0.209358 -4.26075,0.109312 -1.20809,0.618127 5.55177,3.835519 8.96613,3.251239 3.61055,-0.61783 6.91826,-4.602413 6.91826,-4.602413 z"
+       id="rect4528-6-1-2-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccccsccssc"
+       inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\feather_anim\frame_2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:1;fill:#fceba7;fill-opacity:1;stroke:#000000;stroke-width:0.28218037;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m -180.97493,84.372763 c 0,0 1.33366,0.446583 3.27856,0.512264 0.14024,0.0048 0.73633,-0.05483 0.85588,-0.09151 0.1363,-0.04181 1.04616,0.658811 1.08657,0.644112 0.13177,-0.0348 -0.30399,-0.688931 -0.30399,-0.688931 0,0 1.19869,0.229868 1.30893,0.203068 0.11408,-0.02777 -0.50565,-0.521855 -0.50565,-0.521855 -0.50269,-0.203294 1.34092,0.301647 1.4551,0.271022 0.14908,-0.03442 -0.67328,-0.484339 -0.3386,-0.560868 0.72196,-0.165047 2.09079,-0.419332 2.47775,-0.285703 0.75063,0.259191 -2.90263,2.677204 -4.92887,2.618364 -2.14267,-0.06222 -4.38566,-2.100008 -4.38566,-2.100008 z"
+       id="rect4528-2-4-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccccsccssc"
+       inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\feather_anim\frame_2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:1;fill:#037014;fill-opacity:1;stroke:#000000;stroke-width:0.4822042;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m -236.00785,136.78435 c 0,0 1.66702,1.7313 4.56122,3.36903 0.20888,0.11772 1.15878,0.49924 1.36883,0.53833 0.23949,0.0445 1.06366,1.8254 1.13652,1.83509 0.22715,0.0514 0.0844,-1.28403 0.0844,-1.28403 0,0 1.63397,1.29627 1.82214,1.34286 0.19475,0.0482 -0.35321,-1.19043 -0.35321,-1.19043 -0.6007,-0.7055 1.79266,1.5175 1.98984,1.5614 0.25304,0.0658 -0.63681,-1.26617 -0.0694,-1.11739 1.22417,0.32099 3.49878,1.01842 3.97926,1.52689 0.93207,0.9863 -6.51436,1.7597 -9.53717,0.068 -3.1965,-1.7889 -4.98246,-6.64977 -4.98246,-6.64977 z"
+       id="rect4528-1-9-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccccsccssc"
+       inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\feather_anim\frame_3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:1;fill:#037014;fill-opacity:1;stroke:#000000;stroke-width:0.4822042;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m -248.89928,134.50833 c 0,0 -2.40324,-0.0263 -5.57985,-1.01004 -0.2289,-0.0714 -1.158,-0.5011 -1.33045,-0.62722 -0.19664,-0.14381 -2.05806,0.47738 -2.11507,0.431 -0.19321,-0.13007 0.87676,-0.94187 0.87676,-0.94187 0,0 -2.06392,-0.30055 -2.22687,-0.40559 -0.16866,-0.10868 1.1087,-0.55915 1.1087,-0.55915 0.92544,-0.0465 -2.33377,-0.26436 -2.50094,-0.37778 -0.22136,-0.13914 1.35831,-0.40465 0.86095,-0.71567 -1.07304,-0.67097 -3.14035,-1.84845 -3.83992,-1.84958 -1.35703,-0.002 3.18586,5.94842 6.48994,6.98877 3.49393,1.10013 8.25676,-0.93285 8.25676,-0.93285 z"
+       id="rect4528-6-7-1-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccccsccssc"
+       inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\feather_anim\frame_3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:1;fill:#037014;fill-opacity:1;stroke:#000000;stroke-width:0.42142269;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m -241.24037,116.02343 c 0,0 1.39971,1.5661 3.87421,3.09035 0.17863,0.10956 0.99579,0.47366 1.17797,0.5146 0.20767,0.0469 0.86974,1.62873 0.93305,1.63956 0.19672,0.0523 0.11539,-1.11865 0.11539,-1.11865 0,0 1.38496,1.1851 1.5478,1.23189 0.16844,0.0487 -0.26984,-1.05111 -0.26984,-1.05111 -0.50172,-0.63568 1.51635,1.38345 1.68714,1.4282 0.21888,0.0655 -0.51507,-1.12648 -0.0243,-0.97813 1.05871,0.32007 3.02261,1.00297 3.42575,1.46263 0.782,0.89164 -5.74642,1.32545 -8.33147,-0.25007 -2.73365,-1.66604 -4.13568,-5.96923 -4.13568,-5.96923 z"
+       id="rect4528-0-8-6-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccccsccssc"
+       inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\feather_anim\frame_3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:1;fill:#037014;fill-opacity:1;stroke:#000000;stroke-width:0.30036438;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m -243.76753,116.55702 c 0,0 -0.86901,1.21903 -2.50263,2.4926 -0.11794,0.0916 -0.66826,0.41367 -0.79425,0.45673 -0.1435,0.0494 -0.48863,1.22191 -0.53262,1.23455 -0.13524,0.0525 -0.16935,-0.78346 -0.16935,-0.78346 0,0 -0.88834,0.94799 -1.00005,0.99389 -0.11554,0.0476 0.10888,-0.76576 0.10888,-0.76576 0.30567,-0.4896 -0.96592,1.0988 -1.08341,1.14387 -0.14991,0.0636 0.27671,-0.83835 -0.0593,-0.69483 -0.72496,0.30963 -2.06277,0.94718 -2.31237,1.30436 -0.48423,0.69286 4.17468,0.48909 5.88265,-0.82946 1.80613,-1.39428 2.46246,-4.55255 2.46246,-4.55255 z"
+       id="rect4528-8-4-4-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccccsccssc"
+       inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\feather_anim\frame_3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:1;fill:#fceba7;fill-opacity:1;stroke:#000000;stroke-width:0.4822042;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m -229.13977,137.19529 c 0,0 -1.49823,1.87926 -4.22701,3.77987 -0.19701,0.13665 -1.10714,0.60517 -1.31261,0.66372 -0.23429,0.0668 -0.88875,1.91668 -0.96037,1.93312 -0.22137,0.0724 -0.20384,-1.27054 -0.20384,-1.27054 0,0 -1.50591,1.44304 -1.68893,1.50698 -0.18939,0.0662 0.24061,-1.21818 0.24061,-1.21818 0.53224,-0.7585 -1.64325,1.67811 -1.83548,1.74023 -0.24578,0.0891 0.51591,-1.32007 -0.0352,-1.11901 -1.1889,0.4338 -3.38853,1.34039 -3.81947,1.89146 -0.83599,1.06897 6.65011,1.14431 9.50192,-0.82203 3.01567,-2.07929 4.34037,-7.0856 4.34037,-7.0856 z"
+       id="rect4528-6-1-2-2-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccccsccssc"
+       inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\feather_anim\frame_3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:1;fill:#fceba7;fill-opacity:1;stroke:#000000;stroke-width:0.28218037;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m -228.72111,133.3442 c 0,0 1.3748,-0.29673 3.08077,-1.23299 0.12314,-0.0673 0.60521,-0.42298 0.68928,-0.51556 0.0959,-0.10552 1.23589,0.0325 1.26313,-7.5e-4 0.0956,-0.0972 -0.61306,-0.43725 -0.61306,-0.43725 0,0 1.14811,-0.4142 1.22922,-0.49351 0.0839,-0.0821 -0.70119,-0.19065 -0.70119,-0.19065 -0.53604,0.0818 1.30706,-0.42506 1.3896,-0.50968 0.11064,-0.10568 -0.82619,-0.0728 -0.57746,-0.30947 0.53658,-0.51043 1.58386,-1.4278 1.98482,-1.51041 0.77779,-0.16028 -1.12946,3.78378 -2.90189,4.76745 -1.87426,1.04021 -4.84321,0.43278 -4.84321,0.43278 z"
+       id="rect4528-2-4-3-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccccsccssc"
+       inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\feather_anim\frame_3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#fceba7;fill-opacity:0;stroke:none;stroke-width:1.058;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect4710"
+       width="52.916664"
+       height="47.625"
+       x="-264.58334"
+       y="58.875"
+       inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\feather_anim\frame_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#fceba7;fill-opacity:0;stroke:none;stroke-width:1.05799997;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect4712"
+       width="52.916664"
+       height="47.625"
+       x="-211.66666"
+       y="58.875"
+       inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\feather_anim\frame_2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#fceba7;fill-opacity:0.01023891;stroke:none;stroke-width:1.05799997;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect4714"
+       width="52.916664"
+       height="47.625"
+       x="-264.58334"
+       y="106.5"
+       inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\feather_anim\frame_3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g4640"
+       inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\bird2_anim\frame1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         sodipodi:nodetypes="ssscscscs"
+         inkscape:connector-curvature="0"
+         id="path931-7"
+         d="m -241.58362,236.81123 c -0.76419,0.94999 4.50726,3.0534 5.91294,3.90108 1.10606,0.66699 3.49151,4.97926 4.35094,4.38581 1.04358,-0.72058 -2.83991,-4.34478 -2.83991,-4.34478 0,0 5.50413,1.54704 5.64922,0.49924 0.16163,-1.16719 -5.40217,-1.90829 -5.40217,-1.90829 0,0 5.25016,-1.7246 4.20687,-2.81212 -0.89522,-0.93317 -3.93957,2.07789 -6.09533,2.25051 -1.58736,0.1946 -4.8805,-3.09282 -5.78256,-1.97144 z"
+         style="fill:#fc8e06;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.90135604;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:#fc8e06;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.90135604;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -242.4052,236.3115 c -1.16506,0.35929 2.0251,5.05348 2.71522,6.54285 0.54301,1.17191 0.10521,6.08051 1.14958,6.06996 1.26812,-0.0128 0.0794,-5.18998 0.0794,-5.18998 0,0 3.69446,4.36347 4.40131,3.57652 0.7874,-0.87661 -3.40771,-4.6057 -3.40771,-4.6057 0,0 5.31572,1.51047 5.06015,0.0253 -0.2193,-1.27441 -4.4276,-0.48397 -6.31045,-1.5479 -1.42421,-0.72748 -2.31228,-5.29512 -3.68754,-4.871 z"
+         id="path933-4"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ssscscscs" />
+      <path
+         style="opacity:1;fill:#202020;fill-opacity:1;stroke:#000000;stroke-width:1.57737315;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         d="m -214.16183,214.90734 a 0.92887336,9.5673955 64.969484 0 0 -8.86894,3.29045 0.92887336,9.5673955 64.969484 0 0 -8.27574,4.88968 0.92887336,9.5673955 64.969484 0 0 2.20404,-0.38136 0.92887336,9.5673955 72.261984 0 0 -1.58129,1.0784 0.92887336,9.5673955 72.261984 0 0 0.49712,0.1282 0.92887336,9.5673955 81.017063 0 0 -2.49405,1.03975 0.92887336,9.5673955 81.017063 0 0 9.59527,-0.57655 0.92887336,9.5673955 81.017063 0 0 9.30501,-2.41113 0.92887336,9.5673955 81.017063 0 0 -9.59523,0.5763 0.92887336,9.5673955 81.017063 0 0 -1.19741,0.19787 0.92887336,9.5673955 72.261984 0 0 3.28491,-0.98465 0.92887336,9.5673955 72.261984 0 0 8.82961,-3.79954 0.92887336,9.5673955 72.261984 0 0 -9.3956,2.02996 0.92887336,9.5673955 72.261984 0 0 -2.36452,0.79062 0.92887336,9.5673955 64.969484 0 0 1.97404,-0.89426 0.92887336,9.5673955 64.969484 0 0 8.27571,-4.88942 0.92887336,9.5673955 64.969484 0 0 -0.19293,-0.0843 z"
+         id="path937-5"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\bird1_anim\frame_2.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#a3a3a3;fill-opacity:1;stroke:#000000;stroke-width:1.57737315;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         d="m -229.95055,233.17522 a 33.253667,33.253667 0 0 0 -2.12021,-1.75291 33.253667,33.253667 0 0 0 -2.76039,-1.8518 33.253667,33.253667 0 0 0 -2.93162,-1.56713 33.253667,33.253667 0 0 0 -3.07316,-1.26654 33.253667,33.253667 0 0 0 -3.18408,-0.95332 33.253667,33.253667 0 0 0 -3.26382,-0.63086 33.253667,33.253667 0 0 0 -3.31018,-0.30167 33.253667,33.253667 0 0 0 -3.32374,0.0303 33.253667,33.253667 0 0 0 -2.54883,0.27906 15.140636,15.140636 0 0 0 1.44147,4.90382 15.140636,15.140636 0 0 0 20.28243,6.86365 15.140636,15.140636 0 0 0 4.79213,-3.7526 z"
+         id="path939-5" />
+      <path
+         sodipodi:nodetypes="ccccccccccccscsccccc"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#202020;fill-opacity:1;stroke:#000000;stroke-width:1.57737303;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         d="m -251.39657,211.96868 c -3.76447,3.29037 -5.66184,8.22703 -5.07012,13.19167 0.84577,-0.12578 1.69608,-0.21889 2.54903,-0.27913 1.1067,-0.0655 2.21599,-0.0755 3.3237,-0.0302 1.10775,0.0453 2.21254,0.14604 3.31023,0.30174 1.09776,0.15576 2.18704,0.36633 3.26376,0.63091 1.07656,0.26447 2.13922,0.58261 3.184,0.95322 1.0449,0.37072 2.0706,0.79346 3.07327,1.26664 1.00269,0.47317 1.9811,0.9962 2.93154,1.56711 0.95041,0.57088 1.87168,1.18892 2.76035,1.85183 0.73064,0.55476 1.43801,1.13952 2.12029,1.75278 3.93198,-4.6007 4.74651,-11.10095 2.07128,-16.52959 -2.71026,-5.48271 -8.29604,-8.59918 -14.03414,-8.42785 -0.32135,0.01 -3.04388,-2.11348 -3.04388,-2.11348 0,0 1.2836,2.26442 0.88687,2.33424 -0.58944,0.10373 -5.44466,-3.07617 -5.44466,-3.07617 0,0 2.11697,4.04248 1.35379,4.41972 v -2.6e-4 c -0.7675,0.38647 -5.30997,-4.03773 -5.30997,-4.03773 0,0 2.7814,5.63389 2.07466,6.22455 z"
+         id="path941-6" />
+      <g
+         transform="matrix(0.49149836,0,0,0.49149836,-140.2978,154.01199)"
+         id="g949-3"
+         style="stroke-width:3.20931506;stroke-miterlimit:4;stroke-dasharray:none"
+         inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\bird1_anim\frame_2.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96">
+        <circle
+           r="7.3705359"
+           cy="132.76935"
+           cx="-223.57291"
+           id="circle945-8"
+           style="opacity:1;fill:#fffffc;fill-opacity:1;stroke:#000000;stroke-width:3.20931506;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+        <circle
+           r="4.1577382"
+           cy="133.44136"
+           cx="-224.37471"
+           id="circle947-7"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.20931506;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+      </g>
+      <path
+         style="opacity:1;fill:#fc8e06;fill-opacity:1;stroke:#000000;stroke-width:1.57737303;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         d="m -253.2722,225.39742 c -0.27056,0.19373 -0.5363,0.36517 -0.79737,0.51688 -0.26107,0.15171 -0.51742,0.28376 -0.76962,0.39883 -0.25219,0.11507 -0.5001,0.21316 -0.74404,0.29696 -0.24395,0.0838 -0.48396,0.15322 -0.72027,0.21113 -0.23633,0.0579 -0.46911,0.10424 -0.69842,0.14163 -0.22932,0.0374 -0.45523,0.0659 -0.67818,0.088 -0.44586,0.0445 -0.87959,0.0641 -1.30366,0.0803 -0.42408,0.0162 -0.83848,0.029 -1.24575,0.0598 -0.40726,0.0309 -0.80741,0.0798 -1.20285,0.16832 -0.19772,0.0443 -0.39416,0.0985 -0.58985,0.1653 -0.1957,0.0668 -0.39054,0.14611 -0.58484,0.24074 -0.19429,0.0946 -0.38802,0.20457 -0.58154,0.33243 -0.0827,0.0547 -0.1654,0.1267 -0.24807,0.18814 0.62575,2.11596 4.20217,3.72622 6.51742,2.31304 2.60534,-1.59024 3.90519,-4.35069 3.64702,-5.20163 z"
+         id="path951-4"
+         inkscape:connector-curvature="0"
+         inkscape:transform-center-x="12.745299"
+         inkscape:transform-center-y="6.1351404" />
+      <path
+         style="opacity:1;fill:#fc8e06;fill-opacity:1;stroke:#000000;stroke-width:1.57737303;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         d="m -259.63634,221.99364 c -2.32281,0.32476 -4.36164,2.66403 -4.14079,4.58728 9.7e-4,0.009 0.004,0.017 0.005,0.0255 0.0915,-0.0472 0.18478,-0.10492 0.27527,-0.14547 0.21167,-0.0948 0.42065,-0.17195 0.6277,-0.23386 0.20705,-0.0619 0.41218,-0.10865 0.6161,-0.14283 0.20393,-0.0342 0.40657,-0.0559 0.60885,-0.0676 0.40456,-0.0233 0.80734,-0.007 1.21423,0.0287 0.40689,0.0355 0.81789,0.09 1.23899,0.1427 0.42109,0.0527 0.85226,0.10365 1.29945,0.13195 0.22359,0.0142 0.45113,0.0226 0.68347,0.0229 0.23235,2.5e-4 0.46957,-0.008 0.71214,-0.0266 0.24258,-0.0189 0.49066,-0.0485 0.74496,-0.0917 0.2543,-0.0432 0.51482,-0.0998 0.78232,-0.17252 0.2675,-0.0727 0.54186,-0.1615 0.82405,-0.26892 0.28219,-0.10743 0.57219,-0.23357 0.87056,-0.38091 -0.14234,-1.07314 -2.2956,-3.02846 -5.35533,-3.41735 -0.33765,-0.0429 -0.67518,-0.0376 -1.00701,0.009 z"
+         id="path953-7"
+         inkscape:connector-curvature="0"
+         inkscape:transform-center-x="12.893579"
+         inkscape:transform-center-y="-4.5383923" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\bird1_anim\frame_2.png"
+         style="opacity:1;fill:#202020;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.57737303;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -238.02255,224.23762 c 0,0 5.48069,1.63691 10.25307,-1.80319 3.79059,-3.12905 4.37749,-6.92599 2.85086,-9.48125 -1.86676,-2.4437 -6.22021,-3.21282 -9.92592,-0.96702 -3.68879,2.64656 -5.03049,8.51604 -5.03049,8.51604"
+         id="path959-2"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\bird1_anim\frame_2.png"
+         y="201.75"
+         x="-264.58331"
+         height="47.625"
+         width="52.916668"
+         id="rect4526-6"
+         style="opacity:1;fill:#7a5c00;fill-opacity:0;stroke:none;stroke-width:1.05833328;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4621"
+         d="m -255.40324,220.54408 c 11.59444,-7.91703 11.59444,-7.91703 11.59444,-7.91703"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.83441305;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g4801"
+       inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\bird2_anim\frame2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         sodipodi:nodetypes="ssscscscs"
+         inkscape:connector-curvature="0"
+         id="path931-7-9"
+         d="m -188.66695,234.69455 c -0.76419,0.94999 4.50726,3.0534 5.91294,3.90108 1.10606,0.66699 3.49151,4.97926 4.35094,4.38581 1.04358,-0.72058 -2.83991,-4.34478 -2.83991,-4.34478 0,0 5.50413,1.54704 5.64922,0.49924 0.16163,-1.16719 -5.40217,-1.90829 -5.40217,-1.90829 0,0 5.25016,-1.7246 4.20687,-2.81212 -0.89522,-0.93317 -3.93957,2.07789 -6.09533,2.25051 -1.58736,0.1946 -4.8805,-3.09282 -5.78256,-1.97144 z"
+         style="fill:#fc8e06;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.90135604;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:#fc8e06;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.90135604;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -189.48853,234.19482 c -1.16506,0.35929 2.0251,5.05348 2.71522,6.54285 0.54301,1.17191 0.10521,6.08051 1.14958,6.06996 1.26812,-0.0128 0.0794,-5.18998 0.0794,-5.18998 0,0 3.69446,4.36347 4.40131,3.57652 0.7874,-0.87661 -3.40771,-4.6057 -3.40771,-4.6057 0,0 5.31572,1.51047 5.06015,0.0253 -0.2193,-1.27441 -4.4276,-0.48397 -6.31045,-1.5479 -1.42421,-0.72748 -2.31228,-5.29512 -3.68754,-4.871 z"
+         id="path933-4-1"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ssscscscs" />
+      <path
+         style="opacity:1;fill:#202020;fill-opacity:1;stroke:#000000;stroke-width:1.57737315;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         d="m -161.24516,212.79066 a 0.92887336,9.5673955 64.969484 0 0 -8.86894,3.29045 0.92887336,9.5673955 64.969484 0 0 -8.27574,4.88968 0.92887336,9.5673955 64.969484 0 0 2.20404,-0.38136 0.92887336,9.5673955 72.261984 0 0 -1.58129,1.0784 0.92887336,9.5673955 72.261984 0 0 0.49712,0.1282 0.92887336,9.5673955 81.017063 0 0 -2.49405,1.03975 0.92887336,9.5673955 81.017063 0 0 9.59527,-0.57655 0.92887336,9.5673955 81.017063 0 0 9.30501,-2.41113 0.92887336,9.5673955 81.017063 0 0 -9.59523,0.5763 0.92887336,9.5673955 81.017063 0 0 -1.19741,0.19787 0.92887336,9.5673955 72.261984 0 0 3.28491,-0.98465 0.92887336,9.5673955 72.261984 0 0 8.82961,-3.79954 0.92887336,9.5673955 72.261984 0 0 -9.3956,2.02996 0.92887336,9.5673955 72.261984 0 0 -2.36452,0.79062 0.92887336,9.5673955 64.969484 0 0 1.97404,-0.89426 0.92887336,9.5673955 64.969484 0 0 8.27571,-4.88942 0.92887336,9.5673955 64.969484 0 0 -0.19293,-0.0843 z"
+         id="path937-5-3"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\bird1_anim\frame_2.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#a3a3a3;fill-opacity:1;stroke:#000000;stroke-width:1.57737315;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         d="m -177.03388,231.05854 a 33.253667,33.253667 0 0 0 -2.12021,-1.75291 33.253667,33.253667 0 0 0 -2.76039,-1.8518 33.253667,33.253667 0 0 0 -2.93162,-1.56713 33.253667,33.253667 0 0 0 -3.07316,-1.26654 33.253667,33.253667 0 0 0 -3.18408,-0.95332 33.253667,33.253667 0 0 0 -3.26382,-0.63086 33.253667,33.253667 0 0 0 -3.31018,-0.30167 33.253667,33.253667 0 0 0 -3.32374,0.0303 33.253667,33.253667 0 0 0 -2.54883,0.27906 15.140636,15.140636 0 0 0 1.44147,4.90382 15.140636,15.140636 0 0 0 20.28243,6.86365 15.140636,15.140636 0 0 0 4.79213,-3.7526 z"
+         id="path939-5-8" />
+      <path
+         sodipodi:nodetypes="ccccccccccccscsccccc"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#202020;fill-opacity:1;stroke:#000000;stroke-width:1.57737303;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         d="m -198.4799,209.852 c -3.76447,3.29037 -5.66184,8.22703 -5.07012,13.19167 0.84577,-0.12578 1.69608,-0.21889 2.54903,-0.27913 1.1067,-0.0655 2.21599,-0.0755 3.3237,-0.0302 1.10775,0.0453 2.21254,0.14604 3.31023,0.30174 1.09776,0.15576 2.18704,0.36633 3.26376,0.63091 1.07656,0.26447 2.13922,0.58261 3.184,0.95322 1.0449,0.37072 2.0706,0.79346 3.07327,1.26664 1.00269,0.47317 1.9811,0.9962 2.93154,1.56711 0.95041,0.57088 1.87168,1.18892 2.76035,1.85183 0.73064,0.55476 1.43801,1.13952 2.12029,1.75278 3.93198,-4.6007 4.74651,-11.10095 2.07128,-16.52959 -2.71026,-5.48271 -8.29604,-8.59918 -14.03414,-8.42785 -0.32135,0.01 -3.04388,-2.11348 -3.04388,-2.11348 0,0 1.2836,2.26442 0.88687,2.33424 -0.58944,0.10373 -5.44466,-3.07617 -5.44466,-3.07617 0,0 2.11697,4.04248 1.35379,4.41972 v -2.6e-4 c -0.7675,0.38647 -5.30997,-4.03773 -5.30997,-4.03773 0,0 2.7814,5.63389 2.07466,6.22455 z"
+         id="path941-6-7" />
+      <g
+         transform="matrix(0.49149836,0,0,0.49149836,-87.381134,151.89531)"
+         id="g949-3-9"
+         style="stroke-width:3.20931506;stroke-miterlimit:4;stroke-dasharray:none"
+         inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\bird1_anim\frame_2.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96">
+        <circle
+           r="7.3705359"
+           cy="132.76935"
+           cx="-223.57291"
+           id="circle945-8-8"
+           style="opacity:1;fill:#fffffc;fill-opacity:1;stroke:#000000;stroke-width:3.20931506;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+        <circle
+           r="4.1577382"
+           cy="133.44136"
+           cx="-224.37471"
+           id="circle947-7-2"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.20931506;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+      </g>
+      <path
+         style="opacity:1;fill:#fc8e06;fill-opacity:1;stroke:#000000;stroke-width:1.57737303;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         d="m -200.35553,223.28074 c -0.27056,0.19373 -0.5363,0.36517 -0.79737,0.51688 -0.26107,0.15171 -0.51742,0.28376 -0.76962,0.39883 -0.25219,0.11507 -0.5001,0.21316 -0.74404,0.29696 -0.24395,0.0838 -0.48396,0.15322 -0.72027,0.21113 -0.23633,0.0579 -0.46911,0.10424 -0.69842,0.14163 -0.22932,0.0374 -0.45523,0.0659 -0.67818,0.088 -0.44586,0.0445 -0.87959,0.0641 -1.30366,0.0803 -0.42408,0.0162 -0.83848,0.029 -1.24575,0.0598 -0.40726,0.0309 -0.80741,0.0798 -1.20285,0.16832 -0.19772,0.0443 -0.39416,0.0985 -0.58985,0.1653 -0.1957,0.0668 -0.39054,0.14611 -0.58484,0.24074 -0.19429,0.0946 -0.38802,0.20457 -0.58154,0.33243 -0.0827,0.0547 -0.1654,0.1267 -0.24807,0.18814 0.62575,2.11596 4.20217,3.72622 6.51742,2.31304 2.60534,-1.59024 3.90519,-4.35069 3.64702,-5.20163 z"
+         id="path951-4-3"
+         inkscape:connector-curvature="0"
+         inkscape:transform-center-x="12.745299"
+         inkscape:transform-center-y="6.1351404" />
+      <path
+         style="opacity:1;fill:#fc8e06;fill-opacity:1;stroke:#000000;stroke-width:1.57737303;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         d="m -206.71967,219.87696 c -2.32281,0.32476 -4.36164,2.66403 -4.14079,4.58728 9.7e-4,0.009 0.004,0.017 0.005,0.0255 0.0915,-0.0472 0.18478,-0.10492 0.27527,-0.14547 0.21167,-0.0948 0.42065,-0.17195 0.6277,-0.23386 0.20705,-0.0619 0.41218,-0.10865 0.6161,-0.14283 0.20393,-0.0342 0.40657,-0.0559 0.60885,-0.0676 0.40456,-0.0233 0.80734,-0.007 1.21423,0.0287 0.40689,0.0355 0.81789,0.09 1.23899,0.1427 0.42109,0.0527 0.85226,0.10365 1.29945,0.13195 0.22359,0.0142 0.45113,0.0226 0.68347,0.0229 0.23235,2.5e-4 0.46957,-0.008 0.71214,-0.0266 0.24258,-0.0189 0.49066,-0.0485 0.74496,-0.0917 0.2543,-0.0432 0.51482,-0.0998 0.78232,-0.17252 0.2675,-0.0727 0.54186,-0.1615 0.82405,-0.26892 0.28219,-0.10743 0.57219,-0.23357 0.87056,-0.38091 -0.14234,-1.07314 -2.2956,-3.02846 -5.35533,-3.41735 -0.33765,-0.0429 -0.67518,-0.0376 -1.00701,0.009 z"
+         id="path953-7-7"
+         inkscape:connector-curvature="0"
+         inkscape:transform-center-x="12.893579"
+         inkscape:transform-center-y="-4.5383923" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\bird1_anim\frame_2.png"
+         style="opacity:1;fill:#202020;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.57737303;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -185.10588,218.43371 c 0,0 5.48069,-1.63691 10.25307,1.80319 3.79059,3.12905 4.37749,6.92599 2.85086,9.48125 -1.86676,2.4437 -6.22021,3.21282 -9.92592,0.96702 -3.68879,-2.64656 -5.03049,-8.51604 -5.03049,-8.51604"
+         id="path959-2-9"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\bird1_anim\frame_2.png"
+         y="201.75"
+         x="-211.66664"
+         height="47.625"
+         width="52.916668"
+         id="rect4526-6-2"
+         style="opacity:1;fill:#7a5c00;fill-opacity:0;stroke:none;stroke-width:1.05833328;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4621-5"
+         d="m -202.48657,218.4274 c 11.59444,-7.91703 11.59444,-7.91703 11.59444,-7.91703"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.83441305;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <path
+       style="opacity:1;fill:#202020;fill-opacity:1;stroke:#000000;stroke-width:0.4822042;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m -124.94294,236.91733 c 0,0 2.40307,0.0391 5.60529,-0.85775 0.23075,-0.0651 1.17118,-0.4694 1.34703,-0.59076 0.20048,-0.13838 2.0443,0.53324 2.10254,0.48842 0.19666,-0.12477 -0.85079,-0.9654 -0.85079,-0.9654 0,0 2.07135,-0.24424 2.23709,-0.3448 0.17153,-0.10407 -1.09306,-0.58913 -1.09306,-0.58913 -0.92383,-0.0717 2.3401,-0.20073 2.51029,-0.30955 0.2251,-0.13299 -1.34678,-0.44149 -0.84112,-0.73885 1.09091,-0.64152 3.18952,-1.76228 3.88886,-1.74432 1.35659,0.0348 -3.34665,5.85946 -6.67782,6.80946 -3.52259,1.00459 -8.22831,-1.15732 -8.22831,-1.15732 z"
+       id="rect4528-1-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccccsccssc"
+       inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\feather_anim2\frame_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:1;fill:#202020;fill-opacity:1;stroke:#000000;stroke-width:0.4822042;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m -135.75118,221.56 c 0,0 -1.31518,2.0116 -3.85347,4.16002 -0.18331,0.15455 -1.04543,0.70647 -1.24452,0.784 -0.22701,0.0884 -0.70488,1.99165 -0.77464,2.01474 -0.21359,0.0929 -0.32223,-1.24579 -0.32223,-1.24579 0,0 -1.36377,1.57805 -1.53998,1.65889 -0.18236,0.0837 0.12518,-1.23539 0.12518,-1.23539 0.45869,-0.80512 -1.47845,1.82498 -1.664,1.90487 -0.23636,0.11176 0.3897,-1.36268 -0.14005,-1.11077 -1.1429,0.54351 -3.2477,1.6526 -3.62501,2.2417 -0.73193,1.14272 6.72817,0.5149 9.38277,-1.71048 2.80714,-2.35326 3.65597,-7.4618 3.65597,-7.4618 z"
+       id="rect4528-6-7-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccccsccssc"
+       inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\feather_anim2\frame_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:1;fill:#202020;fill-opacity:1;stroke:#000000;stroke-width:0.42142269;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m -125.73422,218.36733 c 0,0 2.09243,-0.18316 4.79496,-1.25216 0.19472,-0.0774 0.97566,-0.51385 1.11753,-0.63527 0.16192,-0.13823 1.82523,0.27878 1.87182,0.23456 0.15969,-0.1262 -0.82681,-0.7623 -0.82681,-0.7623 0,0 1.77849,-0.3995 1.91347,-0.50189 0.13989,-0.10575 -1.0034,-0.41333 -1.0034,-0.41333 -0.80954,0.0212 2.01603,-0.38596 2.15414,-0.49594 0.18352,-0.13611 -1.21062,-0.26206 -0.79794,-0.56625 0.89033,-0.65622 2.61328,-1.82012 3.22283,-1.86772 1.18238,-0.0924 -2.37962,5.39588 -5.18943,6.52271 -2.97128,1.19162 -7.25717,-0.26241 -7.25717,-0.26241 z"
+       id="rect4528-0-8-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccccsccssc"
+       inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\feather_anim2\frame_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:1;fill:#202020;fill-opacity:1;stroke:#000000;stroke-width:0.30036438;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m -140.80341,216.14417 c 0,0 -1.49623,-0.0501 -3.46066,-0.70716 -0.14155,-0.0476 -0.71408,-0.3283 -0.81972,-0.40926 -0.12046,-0.0923 -1.28832,0.26844 -1.32317,0.23877 -0.11849,-0.0837 0.55919,-0.57427 0.55919,-0.57427 0,0 -1.28108,-0.21608 -1.38109,-0.28378 -0.1035,-0.07 0.69827,-0.33266 0.69827,-0.33266 0.57696,-0.016 -1.44963,-0.19733 -1.55214,-0.2703 -0.13593,-0.0897 0.85154,-0.23297 0.54615,-0.43362 -0.65882,-0.43288 -1.92973,-1.19511 -2.36536,-1.2056 -0.84505,-0.0204 1.90063,3.74896 3.94365,4.44311 2.16039,0.73406 5.15489,-0.46526 5.15489,-0.46526 z"
+       id="rect4528-8-4-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccccsccssc"
+       inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\feather_anim2\frame_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:1;fill:#a3a3a3;fill-opacity:1;stroke:#000000;stroke-width:0.4822042;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m -132.42877,240.04934 c 0,0 -2.39153,0.23854 -5.65716,-0.38931 -0.23537,-0.0457 -1.20612,-0.37053 -1.39143,-0.47687 -0.2113,-0.12125 -1.99296,0.70116 -2.05472,0.66134 -0.20636,-0.10802 0.76767,-1.03272 0.76767,-1.03272 0,0 -2.08447,-0.0714 -2.258,-0.15784 -0.17958,-0.0895 1.04037,-0.67786 1.04037,-0.67786 0.91468,-0.14818 -2.34869,-0.006 -2.52733,-0.10003 -0.23537,-0.11384 1.30547,-0.5518 0.77687,-0.80615 -1.14042,-0.5487 -3.32484,-1.49132 -4.02028,-1.41536 -1.34902,0.14732 3.82166,5.56132 7.22022,6.23142 3.59384,0.7086 8.10379,-1.83662 8.10379,-1.83662 z"
+       id="rect4528-6-1-2-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccccsccssc"
+       inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\feather_anim2\frame_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:1;fill:#a3a3a3;fill-opacity:1;stroke:#000000;stroke-width:0.28218037;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m -130.45593,223.78136 c 0,0 1.03482,0.95249 2.78316,1.80704 0.12604,0.0617 0.69447,0.25079 0.81857,0.26615 0.1415,0.0175 0.68571,1.02873 0.7286,1.03183 0.13449,0.0221 0.004,-0.75301 0.004,-0.75301 0,0 1.00017,0.69954 1.11174,0.72012 0.11548,0.0213 -0.24832,-0.6829 -0.24832,-0.6829 -0.37575,-0.39093 1.10067,0.82316 1.21739,0.84186 0.15014,0.0295 -0.41664,-0.71715 -0.0799,-0.65026 0.72639,0.14432 2.07965,0.47147 2.37825,0.75153 0.57923,0.54325 -3.74312,1.25768 -5.56849,0.37615 -1.93027,-0.9322 -3.14497,-3.70854 -3.14497,-3.70854 z"
+       id="rect4528-2-4-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccccsccssc"
+       inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\feather_anim2\frame_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:1;fill:#202020;fill-opacity:1;stroke:#000000;stroke-width:0.4822042;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m -76.240015,236.06886 c 0,0 2.22394,0.91125 5.532941,1.24162 0.238619,0.0234 1.2617,-0.0109 1.469649,-0.0599 0.237112,-0.0559 1.709909,1.24085 1.780482,1.22032 0.228589,-0.0446 -0.440971,-1.20888 -0.440971,-1.20888 0,0 2.018139,0.52656 2.20911,0.49323 0.197641,-0.0345 -0.803601,-0.94661 -0.803601,-0.94661 -0.83435,-0.40306 2.25261,0.66492 2.45074,0.62552 0.25807,-0.0419 -1.09366,-0.90147 -0.51445,-0.99436 1.2496,-0.20036 3.6122,-0.48026 4.257029,-0.20895 1.250852,0.52624 -5.250069,4.23912 -8.698508,3.91128 -3.64659,-0.34669 -7.242421,-4.07331 -7.242421,-4.07331 z"
+       id="rect4528-1-9-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccccsccssc"
+       inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\feather_anim2\frame_2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:1;fill:#202020;fill-opacity:1;stroke:#000000;stroke-width:0.4822042;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m -86.351395,229.10339 c 0,0 -2.198489,0.97103 -5.49733,1.39077 -0.23791,0.0298 -1.261549,0.0233 -1.47075,-0.0201 -0.238529,-0.0495 -1.675741,1.28663 -1.746829,1.26801 -0.22973,-0.0384 0.40813,-1.22035 0.40813,-1.22035 0,0 -2.00316,0.58093 -2.19497,0.55278 -0.198522,-0.0291 0.777708,-0.968 0.777708,-0.968 0.82314,-0.4255 -2.2338,0.72559 -2.432928,0.69156 -0.259101,-0.035 1.06889,-0.93071 0.487389,-1.0079 -1.254551,-0.1665 -3.623865,-0.38241 -4.261125,-0.0938 -1.23614,0.55988 5.362765,4.09563 8.801084,3.67467 3.635891,-0.44515 7.129642,-4.26763 7.129642,-4.26763 z"
+       id="rect4528-6-7-1-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccccsccssc"
+       inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\feather_anim2\frame_2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:1;fill:#202020;fill-opacity:1;stroke:#000000;stroke-width:0.42142269;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m -77.528424,216.81255 c 0,0 1.94256,0.79895 4.83408,1.09151 0.208518,0.0207 1.10267,-0.008 1.28447,-0.0506 0.20732,-0.0484 1.492949,1.08641 1.554649,1.06855 0.19983,-0.0387 -0.384,-1.057 -0.384,-1.057 0,0 1.763152,0.46251 1.930091,0.43361 0.172839,-0.0296 -0.70121,-0.82822 -0.70121,-0.82822 -0.72871,-0.35326 1.967878,0.5837 2.141091,0.54949 0.225538,-0.0365 -0.954763,-0.7891 -0.448451,-0.86961 1.092309,-0.17365 3.15744,-0.41555 3.720669,-0.1777 1.09257,0.46136 -4.593198,3.69872 -7.606559,3.40822 -3.18656,-0.30717 -6.32483,-3.56821 -6.32483,-3.56821 z"
+       id="rect4528-0-8-6-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccccsccssc"
+       inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\feather_anim2\frame_2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:1;fill:#202020;fill-opacity:1;stroke:#000000;stroke-width:0.30036438;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m -87.623284,214.06398 c 0,0 -1.378302,0.58439 -3.436792,0.8153 -0.148439,0.0164 -0.785929,0.003 -0.915829,-0.0262 -0.148119,-0.033 -1.055621,0.78581 -1.099719,0.77357 -0.142722,-0.026 0.265488,-0.7563 0.265488,-0.7563 0,0 -1.252998,0.34326 -1.372219,0.32395 -0.123349,-0.0199 0.493361,-0.59569 0.493361,-0.59569 0.51662,-0.25738 -1.398001,0.43122 -1.521712,0.40819 -0.161049,-0.0241 0.674362,-0.56978 0.312881,-0.62324 -0.779831,-0.11533 -2.25351,-0.27175 -2.653081,-0.0979 -0.775118,0.33722 3.302151,2.60057 5.447541,2.37022 2.268659,-0.24355 4.480081,-2.59196 4.480081,-2.59196 z"
+       id="rect4528-8-4-4-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccccsccssc"
+       inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\feather_anim2\frame_2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:1;fill:#a3a3a3;fill-opacity:1;stroke:#000000;stroke-width:0.4822042;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m -73.922016,239.25848 c 0,0 -2.149747,1.07466 -5.42485,1.65106 -0.23622,0.0411 -1.258988,0.0833 -1.470028,0.05 -0.24063,-0.038 -1.61255,1.36499 -1.68444,1.34978 -0.231302,-0.0274 0.34952,-1.23841 0.34952,-1.23841 0,0 -1.97321,0.67569 -2.166152,0.65671 -0.199668,-0.0196 0.730721,-1.00394 0.730721,-1.00394 0.801931,-0.46423 -2.196701,0.83118 -2.39722,0.80666 -0.26048,-0.0225 1.023331,-0.98057 0.438811,-1.02997 -1.26107,-0.10655 -3.63797,-0.20936 -4.260752,0.10931 -1.208087,0.61813 5.551771,3.83552 8.966131,3.25124 3.610549,-0.61783 6.918259,-4.60242 6.918259,-4.60242 z"
+       id="rect4528-6-1-2-2-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccccsccssc"
+       inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\feather_anim2\frame_2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:1;fill:#a3a3a3;fill-opacity:1;stroke:#000000;stroke-width:0.28218037;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m -75.141584,227.24776 c 0,0 1.333659,0.44659 3.278558,0.51227 0.140243,0.005 0.73633,-0.0548 0.855882,-0.0915 0.1363,-0.0418 1.04616,0.65881 1.08657,0.64411 0.13177,-0.0348 -0.30399,-0.68893 -0.30399,-0.68893 0,0 1.198689,0.22987 1.30893,0.20307 0.114078,-0.0278 -0.50565,-0.52186 -0.50565,-0.52186 -0.50269,-0.20329 1.340919,0.30165 1.4551,0.27102 0.149079,-0.0344 -0.67328,-0.48434 -0.338601,-0.56086 0.721961,-0.16505 2.090791,-0.41934 2.477752,-0.28571 0.750628,0.25919 -2.90263,2.67721 -4.92887,2.61837 -2.142673,-0.0622 -4.385662,-2.10001 -4.385662,-2.10001 z"
+       id="rect4528-2-4-3-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccccsccssc"
+       inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\feather_anim2\frame_2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#fceba7;fill-opacity:0.01023889;stroke:none;stroke-width:1.05799997;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect4714-0"
+       width="52.916668"
+       height="47.625"
+       x="-158.75"
+       y="249.375"
+       inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\feather_anim2\frame_3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:1;fill:#202020;fill-opacity:1;stroke:#000000;stroke-width:0.4822042;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m -130.1745,279.65935 c 0,0 1.66701,1.7313 4.56121,3.36903 0.20888,0.11772 1.15878,0.49924 1.36883,0.53833 0.23949,0.0445 1.06367,1.8254 1.13652,1.83509 0.22715,0.0514 0.0844,-1.28403 0.0844,-1.28403 0,0 1.63397,1.29627 1.82214,1.34286 0.19476,0.0482 -0.3532,-1.19043 -0.3532,-1.19043 -0.60071,-0.7055 1.79265,1.5175 1.98983,1.5614 0.25304,0.0658 -0.63681,-1.26617 -0.0694,-1.11739 1.22418,0.32099 3.49879,1.01842 3.97927,1.52689 0.93207,0.9863 -6.51437,1.7597 -9.53717,0.068 -3.1965,-1.7889 -4.98247,-6.64977 -4.98247,-6.64977 z"
+       id="rect4528-1-9-7-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccccsccssc"
+       inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\feather_anim2\frame_3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:1;fill:#202020;fill-opacity:1;stroke:#000000;stroke-width:0.4822042;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m -143.06594,277.38333 c 0,0 -2.40324,-0.0263 -5.57985,-1.01004 -0.2289,-0.0714 -1.158,-0.5011 -1.33045,-0.62722 -0.19664,-0.14381 -2.05806,0.47738 -2.11507,0.431 -0.19321,-0.13007 0.87676,-0.94187 0.87676,-0.94187 0,0 -2.06392,-0.30055 -2.22687,-0.40559 -0.16866,-0.10868 1.1087,-0.55915 1.1087,-0.55915 0.92544,-0.0465 -2.33377,-0.26436 -2.50094,-0.37778 -0.22136,-0.13914 1.35831,-0.40465 0.86095,-0.71567 -1.07304,-0.67097 -3.14035,-1.84845 -3.83992,-1.84958 -1.35703,-0.002 3.18586,5.94842 6.48994,6.98877 3.49393,1.10013 8.25676,-0.93285 8.25676,-0.93285 z"
+       id="rect4528-6-7-1-1-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccccsccssc"
+       inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\feather_anim2\frame_3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:1;fill:#202020;fill-opacity:1;stroke:#000000;stroke-width:0.42142269;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m -135.40703,258.89843 c 0,0 1.39971,1.5661 3.87422,3.09035 0.17862,0.10956 0.99578,0.47366 1.17797,0.5146 0.20766,0.0469 0.86973,1.62873 0.93304,1.63956 0.19672,0.0523 0.11539,-1.11865 0.11539,-1.11865 0,0 1.38496,1.1851 1.54781,1.23189 0.16843,0.0487 -0.26985,-1.05111 -0.26985,-1.05111 -0.50172,-0.63568 1.51636,1.38345 1.68714,1.4282 0.21888,0.0655 -0.51507,-1.12648 -0.0243,-0.97813 1.05871,0.32007 3.02261,1.00297 3.42575,1.46263 0.782,0.89164 -5.74642,1.32545 -8.33147,-0.25007 -2.73365,-1.66604 -4.13568,-5.96923 -4.13568,-5.96923 z"
+       id="rect4528-0-8-6-1-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccccsccssc"
+       inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\feather_anim2\frame_3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:1;fill:#202020;fill-opacity:1;stroke:#000000;stroke-width:0.30036438;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m -137.93419,259.43202 c 0,0 -0.86901,1.21903 -2.50263,2.4926 -0.11794,0.0916 -0.66826,0.41367 -0.79425,0.45673 -0.1435,0.0494 -0.48863,1.22191 -0.53262,1.23455 -0.13524,0.0525 -0.16935,-0.78346 -0.16935,-0.78346 0,0 -0.88834,0.94799 -1.00005,0.99389 -0.11554,0.0476 0.10888,-0.76576 0.10888,-0.76576 0.30567,-0.4896 -0.96592,1.0988 -1.08341,1.14387 -0.14991,0.0636 0.27671,-0.83835 -0.0593,-0.69483 -0.72496,0.30963 -2.06277,0.94718 -2.31237,1.30436 -0.48423,0.69286 4.17468,0.48909 5.88265,-0.82946 1.80613,-1.39428 2.46246,-4.55255 2.46246,-4.55255 z"
+       id="rect4528-8-4-4-2-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccccsccssc"
+       inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\feather_anim2\frame_3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:1;fill:#a3a3a3;fill-opacity:1;stroke:#000000;stroke-width:0.4822042;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m -123.30643,280.07029 c 0,0 -1.49823,1.87926 -4.22701,3.77987 -0.19701,0.13665 -1.10713,0.60517 -1.31261,0.66372 -0.23429,0.0668 -0.88875,1.91668 -0.96037,1.93312 -0.22137,0.0724 -0.20384,-1.27054 -0.20384,-1.27054 0,0 -1.5059,1.44304 -1.68892,1.50698 -0.1894,0.0662 0.2406,-1.21818 0.2406,-1.21818 0.53224,-0.7585 -1.64325,1.67811 -1.83548,1.74023 -0.24578,0.0891 0.51591,-1.32007 -0.0352,-1.11901 -1.1889,0.4338 -3.38853,1.34039 -3.81947,1.89146 -0.83599,1.06897 6.65011,1.14431 9.50192,-0.82203 3.01568,-2.07929 4.34038,-7.0856 4.34038,-7.0856 z"
+       id="rect4528-6-1-2-2-0-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccccsccssc"
+       inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\feather_anim2\frame_3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:1;fill:#a3a3a3;fill-opacity:1;stroke:#000000;stroke-width:0.28218037;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m -122.88777,276.2192 c 0,0 1.37481,-0.29673 3.08078,-1.23299 0.12314,-0.0673 0.6052,-0.42298 0.68927,-0.51556 0.0959,-0.10552 1.23589,0.0325 1.26313,-7.9e-4 0.0956,-0.0972 -0.61305,-0.43725 -0.61305,-0.43725 0,0 1.1481,-0.4142 1.22922,-0.49351 0.0839,-0.0821 -0.7012,-0.19065 -0.7012,-0.19065 -0.53604,0.0818 1.30706,-0.42506 1.3896,-0.50968 0.11064,-0.10568 -0.82619,-0.0728 -0.57745,-0.30947 0.53658,-0.51043 1.58385,-1.4278 1.98481,-1.51041 0.7778,-0.16028 -1.12946,3.78378 -2.90189,4.76745 -1.87425,1.04021 -4.84321,0.43278 -4.84321,0.43278 z"
+       id="rect4528-2-4-3-9-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccccsccssc"
+       inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\feather_anim2\frame_3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#fceba7;fill-opacity:0;stroke:none;stroke-width:1.05799997;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect4710-2"
+       width="52.916668"
+       height="47.625"
+       x="-158.75"
+       y="201.75"
+       inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\feather_anim2\frame_1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#fceba7;fill-opacity:0;stroke:none;stroke-width:1.05799997;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect4712-5"
+       width="52.916668"
+       height="47.625"
+       x="-105.83331"
+       y="201.75"
+       inkscape:export-filename="D:\dev\Projekte\Godot 3.2\LudumDare46\Assets\feather_anim2\frame_2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:1;fill:#c5c5c5;fill-opacity:1;stroke:#000000;stroke-width:2.24929214;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m -230.89795,275.18678 c 0,6.76582 -4.22598,9.84066 -9.43899,9.84066 -5.21302,0 -9.439,-3.07484 -9.439,-9.84066 0,-6.76582 4.22599,-14.66057 9.439,-14.66057 5.213,0 9.43899,7.89475 9.43899,14.66057 z"
+       id="path4805-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssss" />
+    <path
+       style="opacity:1;fill:#8f8f8f;fill-opacity:1;stroke:none;stroke-width:1.60211563;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m -242.47352,273.92461 c 0,5.33179 4.21067,8.89305 0.8546,8.89305 -3.3561,0 -6.07674,-2.42312 -6.07674,-7.75488 0,-5.3318 2.72065,-11.55323 6.07674,-11.55323 3.35606,0 -0.8546,5.08327 -0.8546,10.41506 z"
+       id="path4805-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssss" />
+    <g
+       id="g4888">
+      <path
+         sodipodi:nodetypes="sccssscsscssscsscccscss"
+         inkscape:connector-curvature="0"
+         id="path4805"
+         d="m -203.40018,274.33633 c 0,1.74836 -0.28219,3.25025 -0.79069,4.51631 -0.076,0.29214 1.56196,2.24427 1.56196,2.24427 0,0 -2.4458,-0.57132 -2.62246,-0.3331 -1.71971,2.31905 -4.47814,3.41318 -7.5878,3.41318 -1.19944,0 -2.34662,-0.16278 -3.40211,-0.49584 -0.35084,-0.11072 -1.96563,0.83956 -1.96563,0.83956 0,0 0.4076,-1.48774 0.15168,-1.63721 -1.81864,-1.06214 -3.19437,-2.79371 -3.83162,-5.25094 -0.0588,-0.22693 -1.57484,-0.55768 -1.57484,-0.55768 0,0 1.34326,-0.55699 1.31354,-0.77152 -0.0855,-0.61725 -0.13002,-1.27271 -0.13002,-1.96703 0,-3.77109 1.31287,-7.89289 3.37775,-10.80291 0.26301,-0.37065 -1.67962,-2.98689 -1.67962,-2.98689 0,0 3.12364,1.26696 3.45066,0.97434 1.28719,-1.15179 2.74536,-1.84511 4.29021,-1.84511 1.89726,0 3.66379,1.04573 5.14343,2.70217 0.15713,0.18992 3.00931,-0.53866 3.00931,-0.53866 0,0 -1.73463,2.22006 -1.63455,2.37705 1.18403,1.8756 2.07436,4.15528 2.54493,6.48791 0.0382,0.1891 1.47586,0.3009 1.47586,0.3009 0,0 -1.2974,0.71132 -1.26714,0.93338 0.10972,0.80508 0.16715,1.60912 0.16715,2.39782 z"
+         style="opacity:1;fill:#c5c5c5;fill-opacity:1;stroke:#000000;stroke-width:2.24929214;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         sodipodi:nodetypes="sssss"
+         inkscape:connector-curvature="0"
+         id="path4805-2-3"
+         d="m -214.6864,272.97176 c 0,5.33179 4.21067,8.89305 0.8546,8.89305 -3.3561,0 -6.07674,-2.42312 -6.07674,-7.75488 0,-5.3318 2.72065,-11.55323 6.07674,-11.55323 3.35606,0 -0.8546,5.08327 -0.8546,10.41506 z"
+         style="opacity:1;fill:#8f8f8f;fill-opacity:1;stroke:none;stroke-width:1.60211563;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    </g>
+    <g
+       transform="matrix(0.6762923,0,0,0.6762923,-83.379424,120.36423)"
+       id="g4888-4"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         sodipodi:nodetypes="sccssscsscssscsscccscss"
+         inkscape:connector-curvature="0"
+         id="path4805-4"
+         d="m -203.40018,274.33633 c 0,1.74836 -0.28219,3.25025 -0.79069,4.51631 -0.076,0.29214 1.56196,2.24427 1.56196,2.24427 0,0 -2.4458,-0.57132 -2.62246,-0.3331 -1.71971,2.31905 -4.47814,3.41318 -7.5878,3.41318 -1.19944,0 -2.34662,-0.16278 -3.40211,-0.49584 -0.35084,-0.11072 -1.96563,0.83956 -1.96563,0.83956 0,0 0.4076,-1.48774 0.15168,-1.63721 -1.81864,-1.06214 -3.19437,-2.79371 -3.83162,-5.25094 -0.0588,-0.22693 -1.57484,-0.55768 -1.57484,-0.55768 0,0 1.34326,-0.55699 1.31354,-0.77152 -0.0855,-0.61725 -0.13002,-1.27271 -0.13002,-1.96703 0,-3.77109 1.31287,-7.89289 3.37775,-10.80291 0.26301,-0.37065 -1.67962,-2.98689 -1.67962,-2.98689 0,0 3.12364,1.26696 3.45066,0.97434 1.28719,-1.15179 2.74536,-1.84511 4.29021,-1.84511 1.89726,0 3.66379,1.04573 5.14343,2.70217 0.15713,0.18992 3.00931,-0.53866 3.00931,-0.53866 0,0 -1.73463,2.22006 -1.63455,2.37705 1.18403,1.8756 2.07436,4.15528 2.54493,6.48791 0.0382,0.1891 1.47586,0.3009 1.47586,0.3009 0,0 -1.2974,0.71132 -1.26714,0.93338 0.10972,0.80508 0.16715,1.60912 0.16715,2.39782 z"
+         style="opacity:1;fill:#c5c5c5;fill-opacity:1;stroke:#000000;stroke-width:2.24929214;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         sodipodi:nodetypes="sssss"
+         inkscape:connector-curvature="0"
+         id="path4805-2-3-1"
+         d="m -214.6864,272.97176 c 0,5.33179 4.21067,8.89305 0.8546,8.89305 -3.3561,0 -6.07674,-2.42312 -6.07674,-7.75488 0,-5.3318 2.72065,-11.55323 6.07674,-11.55323 3.35606,0 -0.8546,5.08327 -0.8546,10.41506 z"
+         style="opacity:1;fill:#8f8f8f;fill-opacity:1;stroke:none;stroke-width:1.60211563;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    </g>
+  </g>
+</svg>
